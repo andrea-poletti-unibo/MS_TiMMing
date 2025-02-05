@@ -3,4 +3,4 @@ The repository provides data, code, and results from the TiMMing analysis (Clona
 
 The findings from this analysis are detailed in the publication:
 
-Alberge J.B., Dutta A., Poletti A., et al. "Genomic landscape of multiple myeloma and its precursor conditions, and its clinical implications." 2025. Nature Genetics (in press).
+Alberge J.B., Dutta A., Poletti A., et al. "Genomic landscape of multiple myeloma and its precursor conditions, and its clinical implications." 2025.
