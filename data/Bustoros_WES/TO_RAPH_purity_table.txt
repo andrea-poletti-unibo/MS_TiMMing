@@ -1,0 +1,94 @@
+sample	purity	notes	cluster_label	meanCN_abs_dev	standard_deviation	total_number_over_tresh	n_del	n_gain	del_presence	perc_alterations	clust_size_prop	distance_from_integer	size_confidence	size_confidence_del	quality_sd
+Tumor_Only_001_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_002_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_004_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_005_pair	0.559	Clustering done: 11 events 	3	0.5609087543333332	0.0751	3	2	1	1	0.2727272727272727	0.8181818181818182	0.4390912456666668	2	2.5	2
+Tumor_Only_006_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_007_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_008_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_009_pair	0.977	Clustering done: 7 events 	2	0.9789207135676938	0.0284	4	3	1	1	0.5714285714285714	1.7142857142857142	0.021079286432306166	2	2.5	3
+Tumor_Only_010_pair	0.874	Clustering done: 6 events 	3	0.8848845090000004	0.0293	4	0	4	0	0.6666666666666666	1.3333333333333333	0.11511549099999963	2	2	3
+Tumor_Only_011_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_012_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_013_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_014_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_015_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_016_pair	1	Clustering done: 18 events 	3	1.000256379391496	0.0702	12	0	12	0	0.6666666666666666	2.6666666666666665	2.5637939149603106e-4	3	3	2
+Tumor_Only_017_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_018_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_019_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_020_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_021_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_022_pair	1	Clustering done: 21 events 	5	1.0787253717771577	0.0141	3	2	1	1	0.14285714285714285	0.5714285714285714	0.07872537177715766	2	2.5	3
+Tumor_Only_023_pair	0.98	Clustering done: 9 events 	3	0.9812573370000001	0.0103	4	0	4	0	0.4444444444444444	1.7777777777777777	0.018742662999999937	2	2	3
+Tumor_Only_025_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_026_pair	0.905	Clustering done: 6 events 	6	0.9047185720000002	NA	1	1	0	1	0.16666666666666666	0.8333333333333334	0.09528142799999983	1	1.5	NA
+Tumor_Only_027_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_028_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_029_pair	1	all clusters found are above the search region (0.95 CN abs dev): purity 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_030_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_031_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_032_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_033_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_034_pair	1	all clusters found are above the search region (0.95 CN abs dev): purity 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_035_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_037_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_038_pair	0.387	Clustering done: 9 events 	4	0.4010644056666666	0.0522	3	0	3	0	0.3333333333333333	1.6666666666666665	0.5989355943333334	2	2	2
+Tumor_Only_039_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_040_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_041_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_042_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_043_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_045_pair	0.69	Clustering done: 20 events 	1	0.6677145795087217	0.0912	8	1	7	1	0.4	4	0.3322854204912783	3	3.5	2
+Tumor_Only_046_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_047_pair	0.898	Clustering done: 11 events 	3	0.905374033903898	0.024	10	0	10	0	0.9090909090909091	1.8181818181818181	0.09462596609610197	2	2	3
+Tumor_Only_048_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_049_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_050_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_051_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_052_pair	0.937	Clustering done: 6 events 	5	0.937193664	NA	1	1	0	1	0.16666666666666666	0.6666666666666666	0.06280633599999996	1	1.5	NA
+Tumor_Only_053_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_054_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_056_pair	0.941	Clustering done: 6 events 	1	0.93647555875	0.0159	4	4	0	1	0.6666666666666666	1.3333333333333333	0.06352444125000001	2	2.5	3
+Tumor_Only_057_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_058_pair	1	Clustering done: 6 events 	2	1.0049359738107373	0.0128	2	1	1	1	0.3333333333333333	1.3333333333333333	0.004935973810737293	1	1.5	3
+Tumor_Only_059_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_060_pair	0.977	Clustering done: 13 events 	1	0.9255018090000001	0.0891	11	5	6	1	0.8461538461538461	1.6923076923076923	0.07449819099999988	2	2.5	2
+Tumor_Only_061_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_062_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_063_pair	1	Clustering done: 5 events 	4	1.0324586500000001	NA	1	1	0	1	0.2	0.6	0.032458650000000144	1	1.5	NA
+Tumor_Only_064_pair	0.625	Clustering done: 26 events 	4	0.6243075402000001	0.0405	5	3	2	1	0.19230769230769232	1.923076923076923	0.3756924597999999	2	2.5	3
+Tumor_Only_065_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_066_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_067_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_068_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_069_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_070_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_072_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_073_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_074_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_076_pair	1	Clustering done: 10 events 	3	1.0348123484732121	0.072	4	2	2	1	0.4	2.4	0.03481234847321213	2	2.5	2
+Tumor_Only_077_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_078_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_079_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_080_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_081_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_082_pair	1	Clustering done: 10 events 	2	0.9771813776216196	0.0439	5	0	5	0	0.5	2.5	0.022818622378380393	3	3	3
+Tumor_Only_083_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_084_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_085_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_086_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_087_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_088_pair	0.306	Clustering done: 15 events 	1	0.34017382223819403	0.0733	7	2	5	1	0.4666666666666667	2.8	0.659826177761806	3	3.5	2
+Tumor_Only_089_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_090_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_091_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_092_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_093_pair	0.998	Clustering done: 12 events 	3	0.9976611413347599	0.0075	6	1	5	1	0.5	2	0.0023388586652400845	2	2.5	3
+Tumor_Only_094_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_095_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_096_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tumor_Only_097_pair	1	Clustering done: 12 events 	2	0.9993838938	0.0554	5	2	3	1	0.4166666666666667	1.6666666666666667	6.161061999999662e-4	2	2.5	2
+Tumor_Only_098_pair	0.225	Clustering done: 9 events 	1	0.2349268778126116	0.0253	5	0	5	0	0.5555555555555556	2.2222222222222223	0.7650731221873884	3	3	3
+Tumor_Only_099_pair	0.955	Clustering done: 9 events 	1	0.952824109715846	0.0469	6	1	5	1	0.6666666666666666	2.6666666666666665	0.04717589028415403	3	3.5	3
+Tumor_Only_100_pair	0.467	Clustering done: 1 events 	2	0.4674722880000002	NA	1	1	0	1	1	1	0.5325277119999998	1	1.5	NA

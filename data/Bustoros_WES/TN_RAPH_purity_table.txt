@@ -1,0 +1,86 @@
+sample	purity	notes	cluster_label	meanCN_abs_dev	standard_deviation	total_number_over_tresh	n_del	n_gain	del_presence	perc_alterations	clust_size_prop	distance_from_integer	size_confidence	size_confidence_del	quality_sd
+SMM-001_pair	NA	NO CLUSTERING (rule 1): everything is normal, purity not computable	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-002_pair	0.987	Clustering done: 7 events 	1	0.9874557526666666	0.0087	3	2	1	1	0.42857142857142855	1.7142857142857142	0.01254424733333337	2	2.5	3
+SMM-003_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-004_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-005_pair	0.257	Clustering done: 1 events 	1	0.2570415460000002	NA	1	1	0	1	1	1	0.7429584539999998	1	1.5	NA
+SMM-006_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-007_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-008_pair	0.265	Clustering done: 12 events 	1	0.2639455250220579	0.0388	9	9	0	1	0.75	3	0.7360544749779421	3	3.5	3
+SMM-009_pair	0.426	Clustering done: 39 events 	2	0.4209708025205302	0.0921	21	6	15	1	0.5384615384615384	3.7692307692307696	0.5790291974794698	3	3.5	2
+SMM-010_pair	0.291	Clustering done: 9 events 	2	0.27502122	0.0576	3	2	1	1	0.3333333333333333	2	0.72497878	2	2.5	2
+SMM-011_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-012_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-013_pair	0.895	Clustering done: 6 events 	2	0.9041390473055904	0.0382	4	2	2	1	0.6666666666666666	1.3333333333333333	0.09586095269440964	2	2.5	3
+SMM-014_pair	0.211	Clustering done: 1 events 	2	0.21147364318971817	NA	1	1	0	1	1	1	0.7885263568102818	1	1.5	NA
+SMM-015_pair	NA	NO CLUSTERING (rule 1): everything is normal, purity not computable	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-016_pair	0.265	Clustering done: 8 events 	1	0.28534185071282414	0.0733	8	6	2	1	1	1	0.7146581492871759	2	2.5	2
+SMM-017_pair	0.79	Clustering done: 2 events 	2	0.7895504395	0.0371	2	2	0	1	1	1	0.21044956049999997	1	1.5	3
+SMM-018_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-019_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-020_pair	NA	NO CLUSTERING (rule 1): everything is normal, purity not computable	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-021_pair	0.273	Clustering done: 9 events 	1	0.27531397844444444	0.0602	9	2	7	1	1	1	0.7246860215555555	2	2.5	2
+SMM-022_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-023_pair	1	Clustering done: 3 events 	4	1.012475402	NA	1	1	0	1	0.3333333333333333	1	0.012475401999999969	1	1.5	NA
+SMM-024_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-025_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-026_pair	1	Clustering done: 21 events 	5	1.0319795771787843	0.0076	5	5	0	1	0.23809523809523808	1.6666666666666667	0.0319795771787843	2	2.5	3
+SMM-027_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-028_pair	0.99	Clustering done: 14 events 	4	0.9875973715000003	0.0217	7	1	6	1	0.5	2	0.012402628499999735	2	2.5	3
+SMM-029_pair	0.339	Clustering done: 11 events 	1	0.3409524287688728	0.0882	10	9	1	1	0.9090909090909091	1.8181818181818181	0.6590475712311272	2	2.5	2
+SMM-030_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-031_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-032_pair	0.94	Clustering done: 7 events 	5	0.9395387799999999	NA	1	1	0	1	0.14285714285714285	0.5714285714285714	0.06046122000000009	1	1.5	NA
+SMM-033_pair	0.259	Clustering done: 8 events 	1	0.26651036821428564	0.0529	7	7	0	1	0.875	1.75	0.7334896317857144	2	2.5	2
+SMM-034_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-035_pair	0.962	Clustering done: 2 events 	3	0.9619469021492828	NA	1	1	0	1	0.5	1	0.0380530978507172	1	1.5	NA
+SMM-036_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-037_pair	0.49	Clustering done: 11 events 	3	0.49349174133333323	0.0316	6	5	1	1	0.5454545454545454	2.727272727272727	0.5065082586666667	3	3.5	3
+SMM-038_pair	NA	NO CLUSTERING (rule 1): everything is normal, purity not computable	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-039_pair	NA	NO CLUSTERING (rule 1): everything is normal, purity not computable	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-040_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-041_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-042_pair	0.392	Clustering done: 3 events 	2	0.3917988920000002	NA	1	0	1	0	0.3333333333333333	0.6666666666666666	0.6082011079999998	1	1	NA
+SMM-043_pair	1	Clustering done: 28 events 	2	1.1010203191289027	0.1197	10	0	10	0	0.35714285714285715	2.5	0.10102031912890275	3	3	1
+SMM-045_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-046_pair	0.489	Clustering done: 11 events 	1	0.496731249	0.0507	4	3	1	1	0.36363636363636365	1.090909090909091	0.503268751	2	2.5	2
+SMM-047_pair	0.258	Clustering done: 12 events 	1	0.2539243963333333	0.0206	3	3	0	1	0.25	0.75	0.7460756036666667	2	2.5	3
+SMM-048_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-049_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-050_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-051_pair	0.256	Clustering done: 1 events 	2	0.256014741	NA	1	0	1	0	1	1	0.743985259	1	1	NA
+SMM-052_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-053_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-054_pair	0.986	Clustering done: 4 events 	3	0.9857757530000002	NA	1	1	0	1	0.25	1	0.014224246999999801	1	1.5	NA
+SMM-055_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-056_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-057_pair	0.303	Clustering done: 7 events 	3	0.27879206777489046	0.0447	3	2	1	1	0.42857142857142855	1.7142857142857142	0.7212079322251095	2	2.5	3
+SMM-058_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-060_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-062_pair	0.932	Clustering done: 6 events 	1	0.9301435287750027	0.0461	6	4	2	1	1	1	0.06985647122499727	2	2.5	3
+SMM-064_pair	0.467	Clustering done: 25 events 	2	0.5514285905089292	0.1758	15	13	2	1	0.6	4.2	0.44857140949107077	3	3.5	1
+SMM-067_pair	NA	NO CLUSTERING (rule 1): everything is normal, purity not computable	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-068_pair	0.222	Clustering done: 7 events 	2	0.23864343728333526	0.0342	7	7	0	1	1	1	0.7613565627166647	2	2.5	3
+SMM-069_pair	0.264	Clustering done: 1 events 	1	0.26401897181371314	NA	1	0	1	0	1	1	0.7359810281862869	1	1	NA
+SMM-070_pair	NA	NO CLUSTERING (rule 1): everything is normal, purity not computable	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-071_pair	NA	NO CLUSTERING (rule 1): everything is normal, purity not computable	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-073_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-074_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-075_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-076_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-077_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-079_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-080_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-081_pair	0.952	Clustering done: 16 events 	3	0.9085261760826479	0.0882	9	4	5	1	0.5625	2.25	0.09147382391735215	3	3.5	2
+SMM-082_pair	0.941	Clustering done: 1 events 	2	0.9412519130000003	NA	1	0	1	0	1	1	0.05874808699999967	1	1	NA
+SMM-083_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-084_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-085_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-086_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-087_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-088_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-089_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-090_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-091_pair	0.947	Clustering done: 8 events 	2	0.9449267070853309	0.0745	8	3	5	1	1	1	0.055073292914669114	2	2.5	2
+SMM-092_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SMM-093_pair	1	NO CLUSTERING (rule 2): most alterations already clonal, most probable purity = 100%	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA

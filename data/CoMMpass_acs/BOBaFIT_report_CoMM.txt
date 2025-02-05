@@ -1,0 +1,848 @@
+sample	clustering	ref_clust_chr	num_clust	correction_factor	correction_class
+MMRF_1016_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 7p, 7q, 8p, 8q	2	-0.0027361812727018098	NO CHANGES
+MMRF_1021_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.0024081329680201158	NO CHANGES
+MMRF_1029_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q, 9p	4	0.012920512872014012	NO CHANGES
+MMRF_1030_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 18p, 18q, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8p, 8q	6	-0.008034541642619963	NO CHANGES
+MMRF_1031_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21p, 21q, 22p, 2p, 2q, 4p, 4q, 6q, 8q	4	-0.007094690663205672	NO CHANGES
+MMRF_1032_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.011028002368288492	NO CHANGES
+MMRF_1033_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	-3.0897124938888965e-4	NO CHANGES
+MMRF_1037_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.0029675450589468078	NO CHANGES
+MMRF_1038_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.007196396665592353	NO CHANGES
+MMRF_1045_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 21p, 21q, 22p, 22q, 2p, 2q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.012840573425868307	NO CHANGES
+MMRF_1048_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 14q, 15q, 16p, 16q, 18p, 18q, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q	6	-0.006644102585474876	NO CHANGES
+MMRF_1049_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 4p, 4q, 8p, 8q	3	0.008777801470575497	NO CHANGES
+MMRF_1054_1_BM_CD138pos_pair	SUCCEDED	10q, 11p, 11q, 12p, 12q, 13q, 16p, 16q, 18p, 18q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	0.006418318669895617	NO CHANGES
+MMRF_1055_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	2	1.0872109875026403e-4	NO CHANGES
+MMRF_1061_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 16p, 16q, 17p, 18p, 18q, 19q, 20p, 20q, 21q, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6q, 7p, 7q, 8p, 8q, 9p, 9q	5	-0.003440709941879838	NO CHANGES
+MMRF_1068_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 1p, 8p, 8q	6	0.17739485609344996	RECALIBRATED
+MMRF_1073_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	5	-2.00323631915549	REFITTED
+MMRF_1077_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12q, 14q, 16p, 16q, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8q	3	-0.008469693604383988	NO CHANGES
+MMRF_1078_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q	5	-1.98482204751208	REFITTED
+MMRF_1079_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 17p, 17q, 1p, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 8p, 8q	5	-0.0035150962470051894	NO CHANGES
+MMRF_1082_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	0.0019902920532008928	NO CHANGES
+MMRF_1086_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 6p, 6q, 8p, 8q	4	0.006341392152930059	NO CHANGES
+MMRF_1089_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.013901983192839973	NO CHANGES
+MMRF_1090_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 8p, 8q	2	0.01897049270147777	NO CHANGES
+MMRF_1092_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.0011461085255499714	NO CHANGES
+MMRF_1098_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.0015212833037550055	NO CHANGES
+MMRF_1100_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	5	0.005985409426930044	NO CHANGES
+MMRF_1107_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 7p, 7q, 8p	6	-0.0028376377848999823	NO CHANGES
+MMRF_1108_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 7p, 7q, 8q	3	0.004019650191869895	NO CHANGES
+MMRF_1129_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q	3	0.008676925396809976	NO CHANGES
+MMRF_1148_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 1p, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q	5	0.008987868264908938	NO CHANGES
+MMRF_1151_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 7p, 7q, 8p, 8q	4	-0.010616757565163226	NO CHANGES
+MMRF_1153_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6q, 8p, 8q	4	-9.77250250879802e-4	NO CHANGES
+MMRF_1157_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12q, 13q, 14q, 18p, 18q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.003822683554734363	NO CHANGES
+MMRF_1164_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	0.002593784322894921	NO CHANGES
+MMRF_1167_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 17p, 18p, 18q, 1p, 20p, 21p, 21q, 22p, 22q, 2q, 4p, 4q	4	-0.029361436952619613	NO CHANGES
+MMRF_1169_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 17q, 18p, 18q, 1q, 20p, 20q, 21p, 21q, 2p, 2q, 4p, 4q, 5q, 6p, 6q, 9p, 9q	3	-0.006874939695970195	NO CHANGES
+MMRF_1171_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 7p, 7q, 8p, 8q	5	0.014075230634595037	NO CHANGES
+MMRF_1178_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q	3	0.0016352029654802536	NO CHANGES
+MMRF_1179_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1q, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	6	-0.007363846823132292	NO CHANGES
+MMRF_1180_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.0022551297548387694	NO CHANGES
+MMRF_1185_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	5	0.010317607070980062	NO CHANGES
+MMRF_1188_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 22p, 22q, 2q, 4p, 4q, 8p, 8q	3	-1.9939621277281603	REFITTED
+MMRF_1189_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.0038938940610051542	NO CHANGES
+MMRF_1195_1_BM_CD138pos_pair	SUCCEDED	12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	4	0.005554181060551944	NO CHANGES
+MMRF_1202_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	0.008783014379446286	NO CHANGES
+MMRF_1210_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 22p, 22q, 3p, 3q, 6p, 6q, 8p, 8q	5	-0.009861464152836952	NO CHANGES
+MMRF_1216_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.004999426663821804	NO CHANGES
+MMRF_1231_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 18p, 18q, 19q, 1p, 1q, 20q, 22p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 8p, 8q, 9q	5	0.0036151100332932895	NO CHANGES
+MMRF_1235_1_BM_CD138pos_pair	SUCCEDED	11p, 11q, 12p, 12q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-4.482590398411368e-4	NO CHANGES
+MMRF_1250_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 16p, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 2p, 2q, 4p, 4q, 8p, 8q	4	-2.8945909420485805e-5	NO CHANGES
+MMRF_1251_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 2p, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	5	0.008520454465760885	NO CHANGES
+MMRF_1252_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9q	3	-0.003946844443055042	NO CHANGES
+MMRF_1260_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21q, 22q, 2p, 2q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	-0.00621046395133007	NO CHANGES
+MMRF_1261_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6q, 7p, 7q, 8p, 8q, 9q	4	5.8842071196885115e-5	NO CHANGES
+MMRF_1266_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18q, 19p, 19q, 1p, 1q, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	3	-0.006359473514820024	NO CHANGES
+MMRF_1267_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p	4	0.002717469095783631	NO CHANGES
+MMRF_1269_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.0031873870858729614	NO CHANGES
+MMRF_1270_1_BM_CD138pos_pair	SUCCEDED	11p, 11q, 12p, 12q, 15q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 21q, 22p, 2p, 2q, 3p, 3q, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9q	2	0.016856494549758683	NO CHANGES
+MMRF_1274_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8q	3	-0.0019139692705758549	NO CHANGES
+MMRF_1277_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 13p, 13q, 14q, 16p, 16q, 1p, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6q, 8p, 8q	3	2.5181345422442547e-4	NO CHANGES
+MMRF_1283_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8q	5	0.02062733214172008	NO CHANGES
+MMRF_1284_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.009427812468429941	NO CHANGES
+MMRF_1285_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 8p, 8q	3	-0.0014709973781599217	NO CHANGES
+MMRF_1286_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 1q, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-1.9900784281672301	REFITTED
+MMRF_1290_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.002880699193359204	NO CHANGES
+MMRF_1293_1_BM_CD138pos_pair	SUCCEDED	10q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3q, 4p, 4q, 6p, 8p, 8q	3	0.007101392820640484	NO CHANGES
+MMRF_1300_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 4p, 4q, 5p, 5q, 6q, 8p, 8q	2	0.004193788939520049	NO CHANGES
+MMRF_1304_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	0.02166536218209192	NO CHANGES
+MMRF_1307_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p	4	-0.00409073909554003	NO CHANGES
+MMRF_1308_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 15q, 18p, 18q, 1q, 20p, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.001076555983780203	NO CHANGES
+MMRF_1309_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 8p, 8q, 9p, 9q	3	-0.009762158764984985	NO CHANGES
+MMRF_1311_1_BM_CD138pos_pair	SUCCEDED	10q, 11p, 11q, 15q, 16p, 16q, 18p, 18q, 19p, 19q, 20p, 20q, 2p, 2q, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 9p, 9q	4	-0.03407147228885021	NO CHANGES
+MMRF_1312_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 6p, 6q, 8q	3	0.010726190902049959	NO CHANGES
+MMRF_1318_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.005705375715565175	NO CHANGES
+MMRF_1320_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6q, 8p, 8q	2	-0.009006742724574135	NO CHANGES
+MMRF_1323_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 7p, 7q, 8p, 8q	3	0.00442318091103	NO CHANGES
+MMRF_1324_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.0061076857173896215	NO CHANGES
+MMRF_1325_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 17p, 18p, 18q, 1p, 1q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p	4	0.00566641494160991	NO CHANGES
+MMRF_1327_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.0031234069066372605	NO CHANGES
+MMRF_1328_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	3	-0.005424541399298821	NO CHANGES
+MMRF_1331_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 8p, 8q	4	0.010846658976112922	NO CHANGES
+MMRF_1332_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.007081554294849912	NO CHANGES
+MMRF_1338_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13p, 13q, 14q, 15q, 16p, 17p, 17q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q, 9p, 9q	4	1.2113364565147222e-4	NO CHANGES
+MMRF_1339_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 14q, 15q, 16p, 17p, 18p, 18q, 1p, 1q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p	3	-0.007791999456359999	NO CHANGES
+MMRF_1342_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 13p, 13q, 14q, 16q, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 7p, 7q, 8p, 8q	4	-0.007150816762239831	NO CHANGES
+MMRF_1344_1_BM_CD138pos_pair	SUCCEDED	11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2q, 3p, 4p, 4q, 6q, 8p, 8q	4	-0.008547048853650097	NO CHANGES
+MMRF_1348_1_BM_CD138pos_pair	SUCCEDED	16p, 16q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 8p, 8q	4	0.4552055701722799	RECALIBRATED
+MMRF_1349_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.008218370824160326	NO CHANGES
+MMRF_1352_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 6p, 6q, 8p, 8q	4	-9.251027238899034e-4	NO CHANGES
+MMRF_1354_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 8p, 8q	2	0.02722431946444992	NO CHANGES
+MMRF_1355_1_BM_CD138pos_pair	SUCCEDED	10q, 11p, 11q, 12p, 12q, 13p, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 6p, 6q, 7q, 8p, 8q	4	-0.0020943268714299634	NO CHANGES
+MMRF_1356_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6q, 7p, 7q, 8p, 8q, 9p	5	0.007744930475807044	NO CHANGES
+MMRF_1358_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	-3.2681743078999403e-4	NO CHANGES
+MMRF_1359_1_BM_CD138pos_pair	SUCCEDED	10q, 11p, 11q, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	4	0.010581149506804	NO CHANGES
+MMRF_1360_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	4	0.010151850193989898	NO CHANGES
+MMRF_1361_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.016038610367175465	NO CHANGES
+MMRF_1365_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	3	0.005055742817299924	NO CHANGES
+MMRF_1371_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6q, 8p, 8q	2	0.01632746629295001	NO CHANGES
+MMRF_1377_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 17p, 17q, 18p, 18q, 19p, 19q, 1q, 20p, 20q, 21q, 2q, 3p, 3q, 5p, 5q, 6p, 6q, 7p, 7q, 9p, 9q	3	0.01991290127493439	NO CHANGES
+MMRF_1380_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 16p, 16q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 9p, 9q	4	0.0013895797846998903	NO CHANGES
+MMRF_1383_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 19q, 20p, 20q, 21p, 21q, 4p, 4q, 8p, 8q	3	0.20599564558006622	RECALIBRATED
+MMRF_1386_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-1.4526583778984303e-4	NO CHANGES
+MMRF_1388_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.014477658445169794	NO CHANGES
+MMRF_1389_1_BM_CD138pos_pair	SUCCEDED	11p, 13p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	0.00359120108270905	NO CHANGES
+MMRF_1391_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 2p, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9q	4	0.00506830028164007	NO CHANGES
+MMRF_1392_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	4	0.006397912796129557	NO CHANGES
+MMRF_1393_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.011824653790284634	NO CHANGES
+MMRF_1395_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	-0.0017623644123654358	NO CHANGES
+MMRF_1401_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 13p, 13q, 14q, 15q, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 6p, 6q, 7p, 7q, 8p, 8q	3	0.0016779234265857923	NO CHANGES
+MMRF_1403_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q	3	0.033358779350968426	NO CHANGES
+MMRF_1408_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.040214739443564795	NO CHANGES
+MMRF_1413_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 17p, 17q, 1p, 1q, 21p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 6p, 6q, 9p, 9q	3	-0.9075269575548122	REFITTED
+MMRF_1423_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12q, 13q, 14q, 16p, 16q, 17p, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 8p, 8q	3	0.01631728259153209	NO CHANGES
+MMRF_1424_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p	4	0.014446729118240409	NO CHANGES
+MMRF_1425_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 4p, 4q, 6p, 6q	3	0.007819149383219814	NO CHANGES
+MMRF_1426_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p	2	0.0018305472547979207	NO CHANGES
+MMRF_1431_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	6	0.012616918266550092	NO CHANGES
+MMRF_1432_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9q	3	-0.0024594817931400392	NO CHANGES
+MMRF_1433_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.008018999270840155	NO CHANGES
+MMRF_1434_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 13p, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p	4	-0.0015555382766798687	NO CHANGES
+MMRF_1436_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	2	0.011430826840328034	NO CHANGES
+MMRF_1439_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 13p, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 1q, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.006329011098929138	NO CHANGES
+MMRF_1445_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11q, 12p, 12q, 15q, 17p, 17q, 18p, 18q, 19p, 19q, 1q, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4q, 5p, 5q, 6p, 7p, 7q, 9p, 9q	3	0.0033113577987100573	NO CHANGES
+MMRF_1446_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 1q, 20p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9q	4	7.899918761049562e-4	NO CHANGES
+MMRF_1447_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 4p, 4q, 8q	6	-0.0020524959487500105	NO CHANGES
+MMRF_1450_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 17p, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8p, 8q	4	0.015689197857529757	NO CHANGES
+MMRF_1451_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 19q, 1p, 21q, 22q, 2p, 2q, 3p, 3q, 4q, 5p, 5q, 6p, 7p, 7q, 9p, 9q	3	-0.011784980304472725	NO CHANGES
+MMRF_1453_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 15q, 16p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6q, 7p, 7q, 8p, 9p, 9q	6	0.0041562474091700885	NO CHANGES
+MMRF_1454_1_BM_CD138pos_pair	SUCCEDED	14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.012526427297260057	NO CHANGES
+MMRF_1460_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 16p, 16q, 17p, 17q, 18p, 18q, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 6p, 7p, 7q, 8p, 8q	3	0.01448754068670488	NO CHANGES
+MMRF_1461_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.007619071167319191	NO CHANGES
+MMRF_1462_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q	4	-0.002194871731199921	NO CHANGES
+MMRF_1466_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 8p	3	0.021803996463622966	NO CHANGES
+MMRF_1474_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 4p, 4q, 6p, 6q, 8p, 8q	3	0.0028783406311396753	NO CHANGES
+MMRF_1478_1_BM_CD138pos_pair	SUCCEDED	11p, 11q, 12p, 12q, 15q, 18p, 18q, 1p, 20q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	6	-0.003725468718089875	NO CHANGES
+MMRF_1484_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 15q, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 8p, 9p, 9q	4	0.0012248563872425677	NO CHANGES
+MMRF_1485_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6q, 8p, 8q	3	0.009125448649010881	NO CHANGES
+MMRF_1486_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 16p, 16q, 1p, 20p, 20q, 21q, 22p, 22q, 4p, 4q, 7p, 7q, 8p, 8q	6	-0.002152633490899891	NO CHANGES
+MMRF_1489_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 8p, 8q	3	-0.030917302482023956	NO CHANGES
+MMRF_1491_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 16p, 1p, 20p, 21p, 2q, 6q, 8p, 8q	3	0.4799432504136498	RECALIBRATED
+MMRF_1497_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-1.5995477681229886e-4	NO CHANGES
+MMRF_1501_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12q, 13p, 13q, 14q, 16p, 18p, 18q, 1q, 22p, 22q, 3p, 4p, 4q, 8p, 8q	5	0.0020651422644601958	NO CHANGES
+MMRF_1502_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 5p, 5q, 6p, 6q, 8q, 9p, 9q	4	-0.0073947445803899114	NO CHANGES
+MMRF_1505_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	3	0.012737829815289592	NO CHANGES
+MMRF_1506_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 17p, 17q, 19p, 19q, 1q, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.0037452616348099266	NO CHANGES
+MMRF_1510_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 22p, 22q, 4p, 4q, 5p, 5q, 6q, 8q	5	-0.0012061365046296402	NO CHANGES
+MMRF_1511_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.011523401053459947	NO CHANGES
+MMRF_1512_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	2	-0.013446960800065355	NO CHANGES
+MMRF_1516_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.006712756130897279	NO CHANGES
+MMRF_1519_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 14q, 16p, 17p, 18p, 18q, 1p, 22p, 22q, 4p, 4q, 8p	5	-1.9606110468237743	REFITTED
+MMRF_1522_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5q, 6p, 6q, 7p, 7q, 8p, 8q	2	0.0031857155933399106	NO CHANGES
+MMRF_1523_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	3	-0.0038712945385923625	NO CHANGES
+MMRF_1525_1_BM_CD138pos_pair	SUCCEDED	11p, 11q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 8p, 8q	2	0.010052176377924882	NO CHANGES
+MMRF_1531_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	0.022410032191316542	NO CHANGES
+MMRF_1533_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 16p, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8q	5	-0.004142153185049846	NO CHANGES
+MMRF_1534_1_BM_CD138pos_pair	SUCCEDED	11p, 12p, 12q, 13q, 14q, 16p, 17q, 18p, 18q, 1p, 1q, 20p, 2p, 2q, 4p, 4q, 5q, 6q, 7p, 7q, 8p, 8q	5	-0.02706169521125501	NO CHANGES
+MMRF_1535_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 20p, 20q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p	4	0.004693779388663	NO CHANGES
+MMRF_1537_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 16p, 16q, 18q, 1p, 1q, 21q, 22p, 22q, 4p, 4q, 8p, 8q	5	0.02102497998653008	NO CHANGES
+MMRF_1538_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 8p, 8q	3	2.1008864215737884	REFITTED
+MMRF_1539_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.008624454692289785	NO CHANGES
+MMRF_1541_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 15q, 17p, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	0.005324806578974828	NO CHANGES
+MMRF_1542_1_BM_CD138pos_pair	SUCCEDED	12p, 12q, 15q, 16p, 18p, 18q, 1p, 1q, 2p, 2q, 4p, 4q, 5q, 6p, 6q, 7p, 8p	4	0.2136432444948	RECALIBRATED
+MMRF_1543_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 20p, 20q, 21p, 22p, 22q, 4p, 4q, 8p, 8q	3	-0.008264452220029916	NO CHANGES
+MMRF_1546_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 4p, 4q, 8p, 8q	4	0.0015307669001447533	NO CHANGES
+MMRF_1547_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 9p, 9q	3	-0.0031194573861101915	NO CHANGES
+MMRF_1550_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 17p, 17q, 1p, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6q, 8p, 8q	4	0.01598497840694968	NO CHANGES
+MMRF_1555_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	5	-0.008167374740189803	NO CHANGES
+MMRF_1560_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 21p, 21q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	3	0.014080140661439922	NO CHANGES
+MMRF_1564_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 7p, 8p, 8q	3	-0.013294320110920133	NO CHANGES
+MMRF_1565_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13p, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	2	0.004530084229214859	NO CHANGES
+MMRF_1568_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6q, 7p, 8p, 8q, 9p	6	-0.008508902499750004	NO CHANGES
+MMRF_1570_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13p, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.00486202884426179	NO CHANGES
+MMRF_1572_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 15q, 16p, 16q, 17p, 17q, 19p, 19q, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 9p, 9q	3	0.009762125604754424	NO CHANGES
+MMRF_1573_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 8p, 8q	3	-0.014079510589104949	NO CHANGES
+MMRF_1574_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	3.5097137207995566e-4	NO CHANGES
+MMRF_1576_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 17p, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2q, 4p, 4q, 6p, 6q	4	0.00806821966845006	NO CHANGES
+MMRF_1577_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	0.009265705032698968	NO CHANGES
+MMRF_1579_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	2	-0.03294597229412988	NO CHANGES
+MMRF_1580_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.004069003990639919	NO CHANGES
+MMRF_1583_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 1p, 1q, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q	3	0.006090221456020117	NO CHANGES
+MMRF_1587_1_BM_CD138pos_pair	SUCCEDED	11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.009962712468249313	NO CHANGES
+MMRF_1588_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	0.007918248211759904	NO CHANGES
+MMRF_1589_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	-0.003949207756539952	NO CHANGES
+MMRF_1593_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 2p, 2q, 3p, 3q, 6p, 6q, 7p, 7q	3	-0.9719816028433699	REFITTED
+MMRF_1595_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	2	-0.003511761636969979	NO CHANGES
+MMRF_1596_1_BM_CD138pos_pair	SUCCEDED	12p, 12q, 14q, 16p, 16q, 17q, 18p, 18q, 1q, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	5	7.24841982620239e-4	NO CHANGES
+MMRF_1597_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 13p, 13q, 14q, 16p, 17p, 17q, 18p, 18q, 1q, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	5	0.030679778530181334	NO CHANGES
+MMRF_1598_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 13p, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	5	0.0021819544636956234	NO CHANGES
+MMRF_1601_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.004164683331442376	NO CHANGES
+MMRF_1602_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.009447008965239867	NO CHANGES
+MMRF_1603_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	2	-0.012031730177080036	NO CHANGES
+MMRF_1605_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 17p, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 9p, 9q	3	-0.011583141079289927	NO CHANGES
+MMRF_1607_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 22p, 22q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	4	-2.0034385099255	REFITTED
+MMRF_1608_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 7p, 7q, 8p, 8q	4	0.004104842608050108	NO CHANGES
+MMRF_1610_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	0.0037908515929900855	NO CHANGES
+MMRF_1613_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.009626961463260031	NO CHANGES
+MMRF_1614_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	-0.002719926677718032	NO CHANGES
+MMRF_1617_1_BM_CD138pos_pair	SUCCEDED	11p, 12p, 12q, 13p, 13q, 15q, 16p, 16q, 17p, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 22p, 2p, 3p, 3q, 4p, 4q, 5p, 6p, 7p, 7q, 9p, 9q	4	0.0024680988382441704	NO CHANGES
+MMRF_1618_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 20q, 21p, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.013760900006579924	NO CHANGES
+MMRF_1621_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17q, 18p, 18q, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 6p, 6q, 8q	4	-0.01009740967213979	NO CHANGES
+MMRF_1622_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8q	4	0.0218888650413267	NO CHANGES
+MMRF_1624_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 16p, 16q, 17p, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 4q, 8p, 8q, 9q	3	0.005585450604860043	NO CHANGES
+MMRF_1625_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 15q, 16p, 16q, 18p, 18q, 1p, 20p, 20q, 21q, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.0055385419821800674	NO CHANGES
+MMRF_1627_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	3	0.013785531943109941	NO CHANGES
+MMRF_1628_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.0010283054221709165	NO CHANGES
+MMRF_1629_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q, 9p, 9q	4	0.0020809478912569013	NO CHANGES
+MMRF_1630_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 17q, 18p, 18q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	6	0.002177679196906368	NO CHANGES
+MMRF_1633_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8q	4	-0.0018299285264191667	NO CHANGES
+MMRF_1634_1_BM_CD138pos_pair	SUCCEDED	10q, 11p, 11q, 12p, 12q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.005862787538700509	NO CHANGES
+MMRF_1637_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 15q, 16q, 17q, 18p, 18q, 19q, 1q, 21q, 22p, 3p, 3q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p	4	0.002488316642566213	NO CHANGES
+MMRF_1639_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 8p, 8q	3	-0.02197735153710756	NO CHANGES
+MMRF_1640_1_BM_CD138pos_pair	SUCCEDED	12p, 12q, 14q, 16p, 16q, 17p, 17q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 6p, 6q, 8p, 8q	4	-0.03279991042596242	NO CHANGES
+MMRF_1641_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16q, 17p, 17q, 18p, 1p, 1q, 20p, 21p, 22p, 22q, 2q, 4p, 4q, 6p, 6q, 7p, 7q	3	0.005868033676323492	NO CHANGES
+MMRF_1642_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6q, 8p, 8q	3	-0.03404468963356866	NO CHANGES
+MMRF_1643_1_BM_CD138pos_pair	SUCCEDED	10p, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8q	4	0.001868999641409852	NO CHANGES
+MMRF_1644_1_BM_CD138pos_pair	SUCCEDED	11p, 11q, 12p, 12q, 14q, 16p, 16q, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8q	3	-0.024614135887699895	NO CHANGES
+MMRF_1645_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	4	-0.0012902046333511663	NO CHANGES
+MMRF_1646_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q, 9q	4	-0.0027077244551598767	NO CHANGES
+MMRF_1647_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 17p, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.03042569060467981	NO CHANGES
+MMRF_1648_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 20p, 20q, 22p, 22q, 4p, 4q, 6q, 8p, 8q	3	-0.006976022160849915	NO CHANGES
+MMRF_1650_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 14q, 17p, 17q, 18p, 18q, 19q, 1q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	4	-0.0035184140997324143	NO CHANGES
+MMRF_1651_1_BM_CD138pos_pair	SUCCEDED	11p, 11q, 14q, 16p, 16q, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 2p, 2q, 3p, 3q, 4p, 4q, 8p, 8q	3	0.007327592551611639	NO CHANGES
+MMRF_1652_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8q	4	0.0013451980608030212	NO CHANGES
+MMRF_1654_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6q, 7p, 7q, 8p, 8q	3	-0.0038599401013801327	NO CHANGES
+MMRF_1655_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q	2	0.010143224103825732	NO CHANGES
+MMRF_1656_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	2	0.017705932299630245	NO CHANGES
+MMRF_1659_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2q, 4p, 4q, 6q, 7p, 7q, 8p, 8q	3	-0.032327220805963286	NO CHANGES
+MMRF_1664_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20q, 21p, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	-0.003214124771325988	NO CHANGES
+MMRF_1665_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 6p, 8q	4	-0.015531393824435025	NO CHANGES
+MMRF_1667_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8p, 8q	2	0.0032996743145501384	NO CHANGES
+MMRF_1668_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	2	0.5118691820732029	REFITTED
+MMRF_1671_1_BM_CD138pos_pair	SUCCEDED	10q, 12p, 18p, 18q, 19p, 19q, 20p, 20q, 21q, 2p, 2q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9q	6	0.005563972212853319	NO CHANGES
+MMRF_1672_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 22p, 22q, 4p, 4q, 6p, 6q, 8p, 8q	6	0.019475947982326325	NO CHANGES
+MMRF_1674_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 9p, 9q	3	-0.007471707553916573	NO CHANGES
+MMRF_1676_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q	4	0.0027787119976900865	NO CHANGES
+MMRF_1677_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13p, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7q, 8p, 8q, 9p, 9q	3	0.0034506606746949053	NO CHANGES
+MMRF_1678_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20q, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6q, 7p, 7q, 8p, 8q	4	-0.003301116527345105	NO CHANGES
+MMRF_1680_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20q, 21p, 21q, 22q, 2p, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 8q, 9q	5	0.006304535337960049	NO CHANGES
+MMRF_1682_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 8p, 8q	3	-0.03984001719775998	NO CHANGES
+MMRF_1683_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.0066479678045450186	NO CHANGES
+MMRF_1686_1_BM_CD138pos_pair	SUCCEDED	12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q	4	-0.002885862743835066	NO CHANGES
+MMRF_1687_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q	4	-0.013438780817269791	NO CHANGES
+MMRF_1690_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 18p, 18q, 1p, 1q, 20p, 21p, 21q, 22p, 22q, 6p, 6q, 8p, 8q	3	0.0033404485419799013	NO CHANGES
+MMRF_1694_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1q, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.0022835441285413705	NO CHANGES
+MMRF_1695_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 8p, 8q	6	-2.0001655286410402	REFITTED
+MMRF_1698_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.011016132813450152	NO CHANGES
+MMRF_1700_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q, 9p	4	0.0041273948503897095	NO CHANGES
+MMRF_1705_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	5	-0.00693565990354017	NO CHANGES
+MMRF_1706_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 7p, 7q, 8p, 8q	3	0.013873340156406844	NO CHANGES
+MMRF_1710_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p	4	0.0034293005698651235	NO CHANGES
+MMRF_1713_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 8p, 8q	4	0.006052672724357944	NO CHANGES
+MMRF_1714_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	-1.5280079490143095e-5	NO CHANGES
+MMRF_1715_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 17p, 17q, 18p, 18q, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	3	0.006684347771168886	NO CHANGES
+MMRF_1716_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.007905297891547036	NO CHANGES
+MMRF_1718_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.001438738701217801	NO CHANGES
+MMRF_1719_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.0030622019838471015	NO CHANGES
+MMRF_1720_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.006230607580381076	NO CHANGES
+MMRF_1721_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 15q, 16p, 16q, 17q, 18p, 18q, 19p, 19q, 1q, 21q, 22p, 22q, 2p, 3p, 3q, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.018542577277790073	NO CHANGES
+MMRF_1722_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	0.0056754392483200355	NO CHANGES
+MMRF_1723_1_BM_CD138pos_pair	SUCCEDED	12q, 14q, 16p, 17q, 18p, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	6	-0.009498535117394624	NO CHANGES
+MMRF_1725_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q	3	0.012058388927409958	NO CHANGES
+MMRF_1726_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 6p, 6q, 8p	4	0.024846072712185086	NO CHANGES
+MMRF_1727_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4q, 5p, 6p, 6q, 7q, 8p, 8q, 9p, 9q	3	-1.7921115258001663e-4	NO CHANGES
+MMRF_1730_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6q, 7p, 7q, 8p, 8q	2	0.019947216919709465	NO CHANGES
+MMRF_1733_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	0.0026481684997099464	NO CHANGES
+MMRF_1735_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	-0.011371002132249952	NO CHANGES
+MMRF_1736_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 9p, 9q	3	-8.630860772362858e-4	NO CHANGES
+MMRF_1738_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12q, 14q, 16p, 17q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5q, 8q	3	0.01726305556736385	NO CHANGES
+MMRF_1739_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 2p, 2q, 4p, 4q, 6p, 6q, 8q	4	-4.108611802848827e-4	NO CHANGES
+MMRF_1740_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q, 9p, 9q	5	5.143260685434026e-4	NO CHANGES
+MMRF_1744_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	2	0.010274936012063973	NO CHANGES
+MMRF_1746_1_BM_CD138pos_pair	SUCCEDED	12p, 12q, 13p, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8p, 8q, 9p, 9q	3	-0.0016982810573300533	NO CHANGES
+MMRF_1750_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 13p, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 2p, 2q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q, 9p, 9q	6	0.011080618548073629	NO CHANGES
+MMRF_1753_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 16q, 17p, 17q, 18p, 18q, 1q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	3	0.006442314106410052	NO CHANGES
+MMRF_1755_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 15q, 16p, 17q, 19p, 19q, 1p, 1q, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 5p, 5q, 6p, 8q	3	0.016114263889919878	NO CHANGES
+MMRF_1758_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 19q, 1q, 20p, 20q, 2p, 2q, 3p, 3q, 6p, 7p, 7q, 8q	4	-0.9012628645633001	REFITTED
+MMRF_1759_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 7p, 7q, 8p, 8q	4	-0.008259291407908709	NO CHANGES
+MMRF_1760_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	-2.02451787542255	REFITTED
+MMRF_1761_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20q, 21p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	2	0.01026270521329975	NO CHANGES
+MMRF_1763_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8q	6	-0.005012700982539808	NO CHANGES
+MMRF_1766_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.003919387974281818	NO CHANGES
+MMRF_1768_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 13p, 13q, 14q, 16p, 18p, 18q, 1p, 20p, 20q, 21q, 22p, 22q, 4p, 4q, 8p, 8q	6	0.018986381045045686	NO CHANGES
+MMRF_1771_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 22p, 22q, 4p, 4q, 6p, 6q	4	0.05262839170466993	NO CHANGES
+MMRF_1772_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 14q, 15q, 17p, 17q, 18p, 18q, 19p, 19q, 1q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7q, 8p, 8q	3	-1.9750721417912578	REFITTED
+MMRF_1773_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.003411080102345476	NO CHANGES
+MMRF_1774_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 15q, 16p, 17q, 18p, 18q, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	6	-0.00356478023656992	NO CHANGES
+MMRF_1775_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.004436631595359897	NO CHANGES
+MMRF_1777_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 8p, 8q	4	0.003432380268267865	NO CHANGES
+MMRF_1778_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11q, 12p, 12q, 13p, 13q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q	4	-0.0010777673805799637	NO CHANGES
+MMRF_1780_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.004796954655639674	NO CHANGES
+MMRF_1781_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 15q, 16p, 17p, 17q, 18p, 18q, 1p, 20q, 21p, 21q, 22p, 22q, 2q, 3p, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	3	-0.00434848232659002	NO CHANGES
+MMRF_1782_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.010137625166650066	NO CHANGES
+MMRF_1783_1_BM_CD138pos_pair	SUCCEDED	11p, 12q, 14q, 15q, 18p, 18q, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	5	0.009828817972846515	NO CHANGES
+MMRF_1784_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 22p, 22q, 2q, 4p, 4q	5	-0.009067407460009669	NO CHANGES
+MMRF_1785_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6q, 7p, 7q, 8q, 9p, 9q	3	-0.013160870173027028	NO CHANGES
+MMRF_1786_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	4	0.009469564379769979	NO CHANGES
+MMRF_1787_1_BM_CD138pos_pair	SUCCEDED	10q, 11p, 12p, 12q, 13p, 13q, 14q, 15q, 16p, 16q, 18p, 18q, 19p, 19q, 21p, 21q, 22p, 22q, 2p, 2q, 3q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.011850151887534466	NO CHANGES
+MMRF_1790_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.0012382500230398996	NO CHANGES
+MMRF_1792_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 8q	4	0.0012764267448996947	NO CHANGES
+MMRF_1793_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 6p, 6q, 8p, 8q	3	0.00890285262260293	NO CHANGES
+MMRF_1794_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 7q, 8p, 8q, 9p	6	0.0016856614445397433	NO CHANGES
+MMRF_1795_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 22p, 22q, 4p, 4q, 6q, 8p, 8q	3	0.03234991946646826	NO CHANGES
+MMRF_1796_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 15q, 16p, 18p, 18q, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 8p, 8q, 9p, 9q	3	-0.00824823176560896	NO CHANGES
+MMRF_1797_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.010579627685730841	NO CHANGES
+MMRF_1801_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	0.013252502545605171	NO CHANGES
+MMRF_1802_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 6p, 6q, 8p, 8q	3	0.014501967647774894	NO CHANGES
+MMRF_1803_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12q, 16p, 16q, 17p, 17q, 18p, 1p, 1q, 20q, 22q, 2q, 5p, 5q, 6p, 6q, 7p, 8p, 8q	5	-0.010489101023720693	NO CHANGES
+MMRF_1807_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q	2	8.32042638156949e-5	NO CHANGES
+MMRF_1808_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.005099140741229968	NO CHANGES
+MMRF_1810_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8p, 8q	3	0.002859419950119957	NO CHANGES
+MMRF_1814_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 4p, 6p, 7p, 7q, 8p, 8q	5	-0.00915139737967019	NO CHANGES
+MMRF_1815_1_BM_CD138pos_pair	SUCCEDED	10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	3	0.014746733299761727	NO CHANGES
+MMRF_1816_1_BM_CD138pos_pair	SUCCEDED	10p, 11p, 12p, 12q, 14q, 15q, 16q, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 22p, 22q, 2p, 3p, 3q, 4q, 5p, 7p, 9p, 9q	5	-0.004983003263689945	NO CHANGES
+MMRF_1817_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.012906931333339866	NO CHANGES
+MMRF_1819_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 1q, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	4.3157563913998054e-4	NO CHANGES
+MMRF_1820_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.0032376345973297305	NO CHANGES
+MMRF_1822_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	-9.452402509602109e-4	NO CHANGES
+MMRF_1823_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22q, 2p, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	4	4.586836112916437e-4	NO CHANGES
+MMRF_1824_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.003989217764624797	NO CHANGES
+MMRF_1825_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 5p, 5q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.015937628782527913	NO CHANGES
+MMRF_1830_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 7p, 8p, 8q, 9p, 9q	4	-0.001069626096849241	NO CHANGES
+MMRF_1831_1_BM_CD138pos_pair	SUCCEDED	10q, 12p, 12q, 13p, 13q, 14q, 16p, 17q, 18q, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7q, 8p, 8q	4	0.022295480419828317	NO CHANGES
+MMRF_1832_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	-0.017421475003450038	NO CHANGES
+MMRF_1833_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 20p, 20q, 22p, 22q, 4p, 4q, 6q, 8p, 8q	3	-0.005030935135949655	NO CHANGES
+MMRF_1834_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 6p, 6q, 8p, 8q	3	0.003517363322744771	NO CHANGES
+MMRF_1835_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	0.0016917567485190688	NO CHANGES
+MMRF_1837_1_BM_CD138pos_pair	SUCCEDED	16p, 16q, 17p, 17q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q	5	0.4234674036024424	RECALIBRATED
+MMRF_1838_1_BM_CD138pos_pair	SUCCEDED	12p, 12q, 15q, 16p, 17p, 19p, 19q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q	4	0.0037928446142199146	NO CHANGES
+MMRF_1839_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 17p, 17q, 18p, 18q, 1q, 20p, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	4	-5.571129440569145e-4	NO CHANGES
+MMRF_1841_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 15q, 16p, 16q, 17q, 18p, 18q, 1p, 1q, 20q, 22p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9q	3	-0.014424979047538145	NO CHANGES
+MMRF_1842_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 1q, 20p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	5	0.005407231922289979	NO CHANGES
+MMRF_1845_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18q, 19p, 19q, 1p, 20q, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5q, 6p, 6q, 7p, 7q, 8q	4	0.006698347991473508	NO CHANGES
+MMRF_1846_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2q, 4p, 4q, 5p, 5q, 8p, 8q	3	0.002598879358749917	NO CHANGES
+MMRF_1847_1_BM_CD138pos_pair	SUCCEDED	10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 4p, 5q, 6p, 6q, 7p, 7q, 9q	4	0.024617911192551523	NO CHANGES
+MMRF_1850_1_BM_CD138pos_pair	SUCCEDED	10p, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	-0.010702165879569847	NO CHANGES
+MMRF_1851_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.0030081595251298943	NO CHANGES
+MMRF_1854_1_BM_CD138pos_pair	SUCCEDED	12p, 12q, 14q, 16p, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 8p, 8q	5	-0.005965710342089814	NO CHANGES
+MMRF_1855_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 14q, 17p, 17q, 18p, 18q, 20p, 21q, 2p, 2q, 3p, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	6	0.0036488651043600218	NO CHANGES
+MMRF_1856_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 18p, 18q, 1p, 21q, 2q, 7p, 7q, 8p, 8q, 9q	6	0.0021358013914698493	NO CHANGES
+MMRF_1858_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8p, 8q	6	-0.020027822750457336	NO CHANGES
+MMRF_1859_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	4	0.01075955807668616	NO CHANGES
+MMRF_1860_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 17q, 19p, 19q, 3p, 7q, 8p, 8q	5	0.007309441121278182	NO CHANGES
+MMRF_1861_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 8q	6	0.011334476093479262	NO CHANGES
+MMRF_1862_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	-0.01005118153247997	NO CHANGES
+MMRF_1865_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 15q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.00581818957979241	NO CHANGES
+MMRF_1866_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.00968126438142991	NO CHANGES
+MMRF_1867_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q	5	-0.0019197371270451846	NO CHANGES
+MMRF_1871_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q	4	0.013324904257419057	NO CHANGES
+MMRF_1876_1_BM_CD138pos_pair	SUCCEDED	10q, 12p, 12q, 14q, 16p, 16q, 17q, 1p, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 9p, 9q	3	-0.012967848578064878	NO CHANGES
+MMRF_1879_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 17q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	5	-0.00269720510646021	NO CHANGES
+MMRF_1880_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	-0.005028948413890788	NO CHANGES
+MMRF_1881_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 7p, 7q, 8p, 8q	4	0.007810810887519892	NO CHANGES
+MMRF_1882_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8q	4	0.006183272669289863	NO CHANGES
+MMRF_1886_1_BM_CD138pos_pair	SUCCEDED	11p, 11q, 12p, 12q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4q, 5p, 5q, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.003447036717290519	NO CHANGES
+MMRF_1888_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 18p, 18q, 1p, 1q, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 5p, 5q, 6p, 6q, 8p, 8q	3	-9.477169774800842e-4	NO CHANGES
+MMRF_1890_1_BM_CD138pos_pair	SUCCEDED	12p, 12q, 13q, 20p, 22q, 2q, 4q, 7p	3	0.7500673130793052	REFITTED
+MMRF_1891_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6q, 7p, 7q, 8p, 8q	5	0.005450040311924198	NO CHANGES
+MMRF_1893_1_BM_CD138pos_pair	SUCCEDED	12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 8p, 8q	3	0.012566222077363687	NO CHANGES
+MMRF_1895_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.004060380959304943	NO CHANGES
+MMRF_1900_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13p, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 8p, 8q	2	0.02180810109967002	NO CHANGES
+MMRF_1906_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.008239432047259854	NO CHANGES
+MMRF_1908_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q, 9p, 9q	6	-3.362041856997955e-4	NO CHANGES
+MMRF_1911_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.0032380965051959087	NO CHANGES
+MMRF_1915_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 14q, 18p, 18q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q, 9p, 9q	6	-0.00973694197457542	NO CHANGES
+MMRF_1916_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6q, 7p, 7q, 8p, 8q	4	-0.002639413360489229	NO CHANGES
+MMRF_1917_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	6	-0.009249621192020108	NO CHANGES
+MMRF_1918_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.0065835240869001055	NO CHANGES
+MMRF_1921_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	-0.002631955996569957	NO CHANGES
+MMRF_1922_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 22p, 22q, 4p, 4q, 6q, 8p, 8q	3	-0.010050036130828666	NO CHANGES
+MMRF_1927_1_BM_CD138pos_pair	SUCCEDED	10p, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 4q, 5p, 6q, 7p, 7q, 8p, 8q, 9p	6	0.003333700593699973	NO CHANGES
+MMRF_1928_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 20p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.010135063011540879	NO CHANGES
+MMRF_1929_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.0036860003339043157	NO CHANGES
+MMRF_1930_1_BM_CD138pos_pair	SUCCEDED	12p, 12q, 14q, 15q, 16p, 17p, 17q, 1p, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q	4	0.011030223664968197	NO CHANGES
+MMRF_1931_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	5	-0.0013137292579741278	NO CHANGES
+MMRF_1932_1_BM_CD138pos_pair	SUCCEDED	10q, 12p, 12q, 13q, 14q, 16p, 17p, 17q, 1q, 20p, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 6p, 6q, 8q	3	0.01679817468124778	NO CHANGES
+MMRF_1935_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 7p, 7q, 9p, 9q	3	-0.008604661959469961	NO CHANGES
+MMRF_1940_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16q, 1p, 1q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	5	-0.011028811953289974	NO CHANGES
+MMRF_1955_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.0033001639863221577	NO CHANGES
+MMRF_1957_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 15q, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.0022489513171071174	NO CHANGES
+MMRF_1960_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18q, 1p, 1q, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8q	6	0.006620882159054986	NO CHANGES
+MMRF_1963_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 15q, 17p, 17q, 18p, 18q, 19p, 19q, 1q, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7q, 9p, 9q	4	0.011720637891392993	NO CHANGES
+MMRF_1965_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 18p, 18q, 19p, 19q, 20p, 20q, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 9p, 9q	4	-0.0033849211635899046	NO CHANGES
+MMRF_1967_1_BM_CD138pos_pair	SUCCEDED	10p, 12p, 12q, 13q, 14q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 21p, 21q, 2p, 2q, 3p, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.00998943695059995	NO CHANGES
+MMRF_1970_1_BM_CD138pos_pair	SUCCEDED	10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q	4	-0.0050729958575699285	NO CHANGES
+MMRF_1971_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	4	2.6859423329028687e-4	NO CHANGES
+MMRF_1972_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 16p, 16q, 17p, 17q, 18p, 18q, 1q, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 6p, 6q, 8p, 8q	5	0.0017241119808826255	NO CHANGES
+MMRF_1977_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 16p, 16q, 17p, 17q, 18p, 18q, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	6	-0.0020680252511700026	NO CHANGES
+MMRF_1978_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6q, 8p, 8q	6	-9.90511320469789e-4	NO CHANGES
+MMRF_1981_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 16p, 16q, 17p, 1p, 1q, 6p, 6q, 8p	5	0.1751060002082241	RECALIBRATED
+MMRF_1982_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 8p, 8q	3	0.006959820852909804	NO CHANGES
+MMRF_1985_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 22p, 2p, 2q, 4p, 4q, 6p, 6q, 8q	3	0.01287789243847004	NO CHANGES
+MMRF_1986_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6q, 8q	6	-2.898056968199114e-4	NO CHANGES
+MMRF_1988_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6q, 7p, 7q, 8p, 8q	2	-0.018735232677963953	NO CHANGES
+MMRF_1991_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 8p, 8q	3	0.002325211293380036	NO CHANGES
+MMRF_1992_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 15q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.010527606134949963	NO CHANGES
+MMRF_1994_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.007217404253430093	NO CHANGES
+MMRF_1995_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.006825968092260215	NO CHANGES
+MMRF_1997_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	0.006078972112507852	NO CHANGES
+MMRF_1998_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.003257650728595074	NO CHANGES
+MMRF_1999_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 18p, 18q, 1p, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q	3	0.005903065640210148	NO CHANGES
+MMRF_2000_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	-0.010530703138520003	NO CHANGES
+MMRF_2001_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.009349294713810075	NO CHANGES
+MMRF_2002_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 1p, 20p, 20q, 21p, 22q, 2p, 2q, 8p, 8q, 9p	3	0.027639891520524706	NO CHANGES
+MMRF_2005_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	-1.5145739519439871e-4	NO CHANGES
+MMRF_2006_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q	3	0.01254230206074003	NO CHANGES
+MMRF_2007_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q, 9p, 9q	4	0.002127569870105095	NO CHANGES
+MMRF_2012_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 1q, 21p, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 7p, 7q, 8p, 8q	6	-0.004892869082890883	NO CHANGES
+MMRF_2014_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	4	0.005510774348699954	NO CHANGES
+MMRF_2015_1_BM_CD138pos_pair	SUCCEDED	10p, 11p, 12q, 14q, 15q, 16p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	4	0.0070687804154703215	NO CHANGES
+MMRF_2017_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	8.955185700452173e-4	NO CHANGES
+MMRF_2018_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	4.2592990410206255e-5	NO CHANGES
+MMRF_2024_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.008783147084797438	NO CHANGES
+MMRF_2026_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 15q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q, 9p, 9q	3	0.013630161624740067	NO CHANGES
+MMRF_2038_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 18p, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	-0.011199081669360123	NO CHANGES
+MMRF_2039_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 6p, 7p, 7q, 8q	3	0.0010836451200311181	NO CHANGES
+MMRF_2041_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.002922748708884537	NO CHANGES
+MMRF_2043_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 6p, 6q, 8p, 8q	4	0.003445876994442987	NO CHANGES
+MMRF_2047_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q	3	0.02189162214458995	NO CHANGES
+MMRF_2050_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	2.3800658171979627e-4	NO CHANGES
+MMRF_2054_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	2	-0.003971091087410006	NO CHANGES
+MMRF_2055_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.0073866375831899145	NO CHANGES
+MMRF_2056_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12q, 13q, 18p, 18q, 2p, 2q, 3p, 4p, 4q, 5p, 6p, 6q, 7p, 7q, 8p, 8q, 9p	4	0.0010570303755998989	NO CHANGES
+MMRF_2058_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 18p, 18q, 20p, 20q, 22p, 22q, 8p, 8q	3	0.005348522098139963	NO CHANGES
+MMRF_2059_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	3	-0.002525571510224367	NO CHANGES
+MMRF_2061_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8q	3	0.010371103367559975	NO CHANGES
+MMRF_2062_1_BM_CD138pos_pair	SUCCEDED	11p, 11q, 12p, 12q, 16p, 17p, 17q, 18p, 19p, 19q, 1q, 21q, 22q, 2p, 2q, 3p, 4p, 4q, 5q, 6p, 6q, 9p, 9q	5	-0.007970599305770154	NO CHANGES
+MMRF_2063_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 4p, 4q, 8q	4	5.877560883442712e-4	NO CHANGES
+MMRF_2068_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.00467139365508995	NO CHANGES
+MMRF_2074_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.0031709978505198855	NO CHANGES
+MMRF_2076_1_BM_CD138pos_pair	SUCCEDED	12p, 12q, 14q, 16p, 16q, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 6p, 6q, 8p, 8q	5	0.005167923265890106	NO CHANGES
+MMRF_2079_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	2.3857597273990727e-4	NO CHANGES
+MMRF_2080_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 16p, 16q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	-0.004097406929629788	NO CHANGES
+MMRF_2081_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 22p, 2p, 2q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-2.2404886658478063e-4	NO CHANGES
+MMRF_2082_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 8p, 8q	4	-8.463619149501334e-4	NO CHANGES
+MMRF_2083_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 9p, 9q	3	0.011189006968699955	NO CHANGES
+MMRF_2087_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.007823490288689783	NO CHANGES
+MMRF_2089_1_BM_CD138pos_pair	SUCCEDED	12p, 13q, 14q, 16p, 16q, 17p, 17q, 20p, 20q, 21p, 22p, 22q, 2q, 4p, 4q, 6q	3	-0.059609436275007255	NO CHANGES
+MMRF_2090_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q	4	0.005285335753104414	NO CHANGES
+MMRF_2091_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 15q, 18p, 18q, 19p, 19q, 1q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	4	0.004685955597530267	NO CHANGES
+MMRF_2093_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.011436891856889897	NO CHANGES
+MMRF_2095_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 15q, 2p, 7p, 9p	6	0.002604893719589718	NO CHANGES
+MMRF_2097_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.001275155153809937	NO CHANGES
+MMRF_2098_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 6p, 6q, 8p, 8q	4	-0.010106547567247048	NO CHANGES
+MMRF_2101_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 18p, 18q, 1p, 20p, 20q, 22p, 22q, 2p, 2q, 6p, 6q, 8q	5	-0.002467331711700105	NO CHANGES
+MMRF_2102_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-7.511478757704637e-4	NO CHANGES
+MMRF_2106_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	0.0035383973387002055	NO CHANGES
+MMRF_2107_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 1p, 1q, 20p, 20q, 22p, 22q, 4p, 4q, 8q	5	0.009789045693380016	NO CHANGES
+MMRF_2111_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 8q	5	-0.0019498710678798048	NO CHANGES
+MMRF_2112_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	5.639940648098918e-4	NO CHANGES
+MMRF_2113_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.008722557784829776	NO CHANGES
+MMRF_2115_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12q, 14q, 15q, 17p, 17q, 18p, 18q, 1q, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 5q, 6p, 7p, 7q, 8q	3	0.024046138002709938	NO CHANGES
+MMRF_2116_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	-0.0031095304127801704	NO CHANGES
+MMRF_2118_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.01812806295401992	NO CHANGES
+MMRF_2119_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8p, 8q	4	0.006336404355179903	NO CHANGES
+MMRF_2122_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-1.9858561228097402	REFITTED
+MMRF_2125_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.0013123737940894387	NO CHANGES
+MMRF_2126_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	2	0.017481177719536944	NO CHANGES
+MMRF_2128_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.011128287191120023	NO CHANGES
+MMRF_2129_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6q, 7p, 7q, 8p, 8q	5	0.00595608980786011	NO CHANGES
+MMRF_2132_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 13q, 15q, 16p, 18p, 18q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.00916766499744992	NO CHANGES
+MMRF_2137_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.00212679335171595	NO CHANGES
+MMRF_2138_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	5	0.0019187178602699806	NO CHANGES
+MMRF_2140_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.005536273934019897	NO CHANGES
+MMRF_2141_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	6	0.002502506021827333	NO CHANGES
+MMRF_2143_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.007325064505273815	NO CHANGES
+MMRF_2144_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.003241968947358842	NO CHANGES
+MMRF_2149_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.0022085271898200087	NO CHANGES
+MMRF_2150_1_BM_CD138pos_pair	SUCCEDED	12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 6q, 8p, 8q	3	-0.0032149338202498434	NO CHANGES
+MMRF_2151_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 7p, 7q	3	-0.007203673562425017	NO CHANGES
+MMRF_2152_1_BM_CD138pos_pair	SUCCEDED	16p, 16q, 17p, 17q, 1p, 1q, 20q, 21p, 2p, 2q, 6q, 8q, 9p, 9q	5	-0.012393803996125552	NO CHANGES
+MMRF_2153_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.009742446319910059	NO CHANGES
+MMRF_2159_1_BM_CD138pos_pair	SUCCEDED	10q, 12q, 17p, 17q, 21p, 21q, 22q, 2p, 3q, 4p, 4q, 5q	6	-0.024792899603868435	NO CHANGES
+MMRF_2167_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 7p, 7q, 8p, 8q	4	0.0013999365308183798	NO CHANGES
+MMRF_2168_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	-7.882101242051576e-4	NO CHANGES
+MMRF_2170_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.011412993418897788	NO CHANGES
+MMRF_2172_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 15q, 18p, 19p, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	6	-0.0072165271278201715	NO CHANGES
+MMRF_2173_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.006236066791850181	NO CHANGES
+MMRF_2174_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 2p, 2q, 5p, 5q, 6p, 6q, 7p, 7q, 8q	4	0.009140436764051074	NO CHANGES
+MMRF_2176_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 9p, 9q	3	-0.004944186992968724	NO CHANGES
+MMRF_2180_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	6	-0.0046120833575469256	NO CHANGES
+MMRF_2181_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.022293971620930053	NO CHANGES
+MMRF_2183_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 8p, 8q	4	-0.0015576924877684917	NO CHANGES
+MMRF_2185_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 16q, 18p, 18q, 1p, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9q	3	-1.97108386637938	REFITTED
+MMRF_2186_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13p, 13q, 14q, 16q, 19p, 1p, 1q, 20p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7q, 8p, 8q	3	-4.776036968299202e-4	NO CHANGES
+MMRF_2187_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	0.007821897501608888	NO CHANGES
+MMRF_2190_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.004195049135640172	NO CHANGES
+MMRF_2194_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 15q, 17q, 18p, 18q, 19p, 1p, 1q, 21p, 21q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	5	5.207208992825674e-4	NO CHANGES
+MMRF_2195_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.004524966862397672	NO CHANGES
+MMRF_2197_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.005962457402989951	NO CHANGES
+MMRF_2198_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 17p, 17q, 18p, 18q, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4q, 6p, 7p, 7q, 8p, 8q	4	0.011575979396295288	NO CHANGES
+MMRF_2199_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 5p, 5q, 6p, 6q	4	0.022274918298199164	NO CHANGES
+MMRF_2200_1_BM_CD138pos_pair	SUCCEDED	11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19q, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p	3	2.8331497918010484e-4	NO CHANGES
+MMRF_2201_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 15q, 16p, 16q, 17p, 17q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	-0.0038813920188101037	NO CHANGES
+MMRF_2203_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.014466668557041151	NO CHANGES
+MMRF_2204_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p	3	-0.0018459414051998912	NO CHANGES
+MMRF_2207_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q	3	0.009432824313776678	NO CHANGES
+MMRF_2209_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 21p, 21q, 22p, 22q, 4p, 4q, 6p, 6q, 7p, 8p, 8q	4	0.015462643608574966	NO CHANGES
+MMRF_2211_1_BM_CD138pos_pair	SUCCEDED	10p, 11p, 11q, 12p, 12q, 15q, 16p, 17p, 17q, 18p, 18q, 19q, 1q, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 5p, 5q, 6p, 6q, 7p, 9p, 9q	6	0.003119422944639849	NO CHANGES
+MMRF_2213_1_BM_CD138pos_pair	SUCCEDED	10p, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 6q, 8p, 8q	3	0.06430806851012028	NO CHANGES
+MMRF_2214_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.004648984674390011	NO CHANGES
+MMRF_2216_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 14q, 17p, 17q, 18p, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 6p, 6q, 7p, 7q, 8p, 8q	5	-0.004805734076830159	NO CHANGES
+MMRF_2220_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-2.0066196103855596	REFITTED
+MMRF_2222_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6q, 7p, 7q, 8p, 8q, 9p	3	-0.004446428776375022	NO CHANGES
+MMRF_2223_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.006441650843250102	NO CHANGES
+MMRF_2224_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	6	-0.0024016483228752605	NO CHANGES
+MMRF_2225_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 19p, 19q, 1q, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.0014488645429566738	NO CHANGES
+MMRF_2226_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	4	0.012274645703240328	NO CHANGES
+MMRF_2229_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21q, 2p, 2q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q, 9p, 9q	5	0.011046245316860048	NO CHANGES
+MMRF_2230_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.005942519190010209	NO CHANGES
+MMRF_2231_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 9p, 9q	4	-0.009483097862250212	NO CHANGES
+MMRF_2232_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8q	5	0.0044687264672302884	NO CHANGES
+MMRF_2236_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 8p, 8q	3	0.021205040988104606	NO CHANGES
+MMRF_2237_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	-0.005865011979171886	NO CHANGES
+MMRF_2238_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17q, 18q, 19q, 1p, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q	3	-0.0020376034450197977	NO CHANGES
+MMRF_2240_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 3p, 3q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q, 9q	3	0.005340011003757139	NO CHANGES
+MMRF_2244_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18q, 19p, 19q, 1p, 1q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 5p, 5q, 7p, 7q, 8q, 9p, 9q	3	-0.0010210750027503934	NO CHANGES
+MMRF_2245_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6q, 8p, 8q	3	0.004408756546478543	NO CHANGES
+MMRF_2246_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6q, 7p, 7q, 8p	6	-0.018031675639502698	NO CHANGES
+MMRF_2250_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 15q, 16p, 16q, 17q, 18p, 18q, 19q, 1q, 20p, 20q, 21q, 2p, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 9p, 9q	5	0.009265809736844766	NO CHANGES
+MMRF_2251_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17q, 18p, 18q, 19q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 9p, 9q	3	0.007895134134829895	NO CHANGES
+MMRF_2253_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q	6	0.0024982768788099907	NO CHANGES
+MMRF_2257_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.023864876199419793	NO CHANGES
+MMRF_2258_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q, 9p	3	0.014836809342380075	NO CHANGES
+MMRF_2265_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q	4	-0.007838135385850098	NO CHANGES
+MMRF_2266_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 16p, 16q, 17p, 17q, 18p, 18q, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 8q	3	-0.0014693079094301176	NO CHANGES
+MMRF_2267_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.005672534667030105	NO CHANGES
+MMRF_2268_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	4	0.008231996998649738	NO CHANGES
+MMRF_2269_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 13q, 14q, 15q, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8q, 9p, 9q	3	0.0023004413531200196	NO CHANGES
+MMRF_2270_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.006348020925639908	NO CHANGES
+MMRF_2271_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	4	-3.9241319657978835e-4	NO CHANGES
+MMRF_2272_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 9p, 9q	4	-0.006462235412453943	NO CHANGES
+MMRF_2273_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.004483258960950032	NO CHANGES
+MMRF_2279_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6q, 7p, 7q, 8p	2	-0.0010585324328502566	NO CHANGES
+MMRF_2281_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q, 9p, 9q	3	-2.827003170313702e-4	NO CHANGES
+MMRF_2284_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 17p, 17q, 18p, 18q, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 7p, 7q, 8p, 8q	4	0.0024505776676901903	NO CHANGES
+MMRF_2286_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	2	-0.010275840296460004	NO CHANGES
+MMRF_2288_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.006761260970170158	NO CHANGES
+MMRF_2289_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.0013807100745300005	NO CHANGES
+MMRF_2290_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 1p, 20p, 20q, 21p, 21q, 22p, 2p, 2q, 4p, 4q, 8p, 8q	5	0.0013563073759363942	NO CHANGES
+MMRF_2291_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 21p, 21q, 2p, 2q, 3p, 4p, 4q, 6p, 7p, 7q, 8q, 9p	4	0.006761552028129669	NO CHANGES
+MMRF_2292_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p	3	-0.003021970234875493	NO CHANGES
+MMRF_2293_1_BM_CD138pos_pair	SUCCEDED	10p, 11p, 11q, 12p, 12q, 13q, 14q, 16q, 17p, 1p, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 6p, 6q, 8p, 8q	3	0.0016608527954198316	NO CHANGES
+MMRF_2297_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.018147862429310102	NO CHANGES
+MMRF_2300_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	5	0.002686302130714857	NO CHANGES
+MMRF_2301_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 16p, 16q, 17p, 17q, 18p, 18q, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.013182335797989886	NO CHANGES
+MMRF_2302_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 1p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6q, 8p, 8q	4	-0.0028473794055967616	NO CHANGES
+MMRF_2305_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-3.4052362850989226e-4	NO CHANGES
+MMRF_2306_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 5p, 5q, 6p, 6q, 8p, 8q, 9p	6	-0.005405638949839808	NO CHANGES
+MMRF_2307_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-2.0195546437709337	REFITTED
+MMRF_2308_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	3	0.005656446363949907	NO CHANGES
+MMRF_2310_1_BM_CD138pos_pair	SUCCEDED	10q, 11p, 11q, 12q, 15q, 16p, 18p, 18q, 19p, 1q, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p	5	-8.968869126171342e-4	NO CHANGES
+MMRF_2313_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.0012165761910007955	NO CHANGES
+MMRF_2314_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.006768412366790155	NO CHANGES
+MMRF_2316_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.00822862323675988	NO CHANGES
+MMRF_2317_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.0010129845427000461	NO CHANGES
+MMRF_2324_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 19q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 5p, 5q, 6p, 6q, 8q	4	-0.006238117683010191	NO CHANGES
+MMRF_2325_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	6	-8.646901426700992e-4	NO CHANGES
+MMRF_2326_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.004052590668560896	NO CHANGES
+MMRF_2327_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 1p, 1q, 20p, 2q, 3p, 4p, 4q, 5p, 5q, 6p, 6q, 7q, 8p, 8q, 9p, 9q	3	0.012233151824649902	NO CHANGES
+MMRF_2328_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 1p, 20q, 21p, 21q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 8q, 9p, 9q	3	-0.005913476412629848	NO CHANGES
+MMRF_2329_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 8p, 8q	3	0.001678233429480036	NO CHANGES
+MMRF_2330_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 17p, 18p, 18q, 1p, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q	4	-2.3421828678227286e-4	NO CHANGES
+MMRF_2331_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.006802832795560043	NO CHANGES
+MMRF_2333_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 18p, 18q, 19p, 19q, 20p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	-4.088320069701723e-4	NO CHANGES
+MMRF_2335_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12q, 13q, 14q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 4q, 6p, 7p, 7q, 8p, 8q	6	0.004695298668739856	NO CHANGES
+MMRF_2336_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 21q, 22p, 22q, 4p, 4q	3	0.023725177858020308	NO CHANGES
+MMRF_2339_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 18p, 18q, 1p, 1q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	3	0.008053733156286658	NO CHANGES
+MMRF_2341_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 13q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	3	-6.338020049447834e-4	NO CHANGES
+MMRF_2344_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 18p, 18q, 19p, 1p, 21p, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.01107338195056995	NO CHANGES
+MMRF_2352_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1q, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.011909284331899528	NO CHANGES
+MMRF_2353_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.0045538933977740115	NO CHANGES
+MMRF_2362_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.006832951465680193	NO CHANGES
+MMRF_2364_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 22p, 22q, 4p, 6q, 8p, 8q	3	-0.0011446668660601844	NO CHANGES
+MMRF_2365_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.0013265118738596815	NO CHANGES
+MMRF_2366_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q	3	-0.0025784658344498723	NO CHANGES
+MMRF_2367_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6q, 8p, 8q, 9p	2	-8.106793341902119e-4	NO CHANGES
+MMRF_2368_1_BM_CD138pos_pair	SUCCEDED	12p, 12q, 13q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.015591313725060063	NO CHANGES
+MMRF_2373_1_BM_CD138pos_pair	SUCCEDED	12p, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 1q, 20p, 21p, 21q, 22p, 22q, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q, 9p	6	0.008496358166810491	NO CHANGES
+MMRF_2377_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 13q, 14q, 16p, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 4p, 4q	3	0.024571023715576956	NO CHANGES
+MMRF_2378_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21p, 2p, 2q, 3p, 4p, 4q, 5p	6	0.027752422307886215	NO CHANGES
+MMRF_2379_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7q, 8p, 8q	2	0.007358441915439995	NO CHANGES
+MMRF_2380_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1q, 21p, 22p, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	0.0031105056253348806	NO CHANGES
+MMRF_2383_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 20p, 20q, 21p, 21q, 22p, 2p, 2q, 4p, 4q, 5p, 6p, 6q, 7p, 7q, 8p, 8q	4	0.006577727588064963	NO CHANGES
+MMRF_2384_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7q, 8q, 9p, 9q	3	-0.015402354133680518	NO CHANGES
+MMRF_2386_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.005809189644340185	NO CHANGES
+MMRF_2388_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 2p, 2q, 3p, 4p, 4q, 5p, 6p, 6q, 7p, 9p, 9q	3	0.01898364290697563	NO CHANGES
+MMRF_2394_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 9p, 9q	5	-6.536632987699242e-4	NO CHANGES
+MMRF_2397_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 20p, 20q, 21p, 21q, 2p, 2q, 5p, 5q, 7p, 7q, 8q, 9p, 9q	4	-0.00471338104778507	NO CHANGES
+MMRF_2399_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-2.00146856728398	REFITTED
+MMRF_2400_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	4	-8.55276827059992e-4	NO CHANGES
+MMRF_2401_1_BM_CD138pos_pair	SUCCEDED	10q, 11p, 11q, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.009136435697168821	NO CHANGES
+MMRF_2404_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 5q, 6p, 6q, 8p, 8q, 9p	3	0.01252363310813176	NO CHANGES
+MMRF_2407_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 7p, 7q, 8p, 8q	4	3.069649309499489e-4	NO CHANGES
+MMRF_2409_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18q, 1q, 20p, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6q, 7p, 7q, 8q	3	-0.0395447820840964	NO CHANGES
+MMRF_2410_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	4	9.890291495149306e-4	NO CHANGES
+MMRF_2411_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 8q, 9p	5	0.008281231656029897	NO CHANGES
+MMRF_2412_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 16p, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8p, 8q	5	-4.5068850469487387e-4	NO CHANGES
+MMRF_2413_1_BM_CD138pos_pair	SUCCEDED	11p, 12p, 12q, 13q, 14q, 16p, 16q, 17q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 8p, 8q	5	-0.012219631911650097	NO CHANGES
+MMRF_2419_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.002975487323699788	NO CHANGES
+MMRF_2422_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 22q, 4p, 4q, 7q, 8p, 8q	3	-1.97612566553437	REFITTED
+MMRF_2425_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 17p, 17q, 18p, 18q, 19q, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6q, 7p, 7q, 8p, 8q, 9q	3	-0.0028839085034499945	NO CHANGES
+MMRF_2426_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4q, 6p, 7p, 7q, 8p, 8q, 9q	4	-1.9823457931998	REFITTED
+MMRF_2427_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.0034817854976698648	NO CHANGES
+MMRF_2428_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 16p, 16q, 17p, 17q, 18p, 18q, 1q, 20p, 20q, 2p, 2q, 6p, 6q, 7p, 8p, 8q	6	2.513641770074404e-4	NO CHANGES
+MMRF_2429_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1q, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 8q	4	-0.01784850375844016	NO CHANGES
+MMRF_2433_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 17p, 17q, 18p, 18q, 21p, 21q, 2p, 2q, 5q, 6p, 6q, 7p, 9p	6	-0.0013315265800701859	NO CHANGES
+MMRF_2436_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 17p, 17q, 18p, 19p, 19q, 1p, 1q, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 9p, 9q	4	-0.006453628477697482	NO CHANGES
+MMRF_2437_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 18p, 18q, 19p, 19q, 1q, 20q, 21q, 22p, 2p, 2q, 3p, 3q, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.0037428773338095134	NO CHANGES
+MMRF_2438_1_BM_CD138pos_pair	SUCCEDED	11p, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q	5	-0.07998910149457394	NO CHANGES
+MMRF_2440_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 2p, 2q, 3p, 3q, 4p, 4q, 7p, 7q, 8p, 8q	4	-0.010879685120445792	NO CHANGES
+MMRF_2442_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8q	5	0.005160020391800302	NO CHANGES
+MMRF_2444_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.008485851427789903	NO CHANGES
+MMRF_2445_1_BM_CD138pos_pair	SUCCEDED	10p, 12p, 12q, 13q, 14q, 16p, 18p, 18q, 1p, 21p, 21q, 22p, 22q, 4p, 4q, 8p, 8q	6	0.008585061353764578	NO CHANGES
+MMRF_2446_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6q, 7p, 7q, 8p, 8q	3	-0.0033131186462100892	NO CHANGES
+MMRF_2449_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1q, 20p, 20q, 21q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.0011219599070200204	NO CHANGES
+MMRF_2453_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8q	5	-0.014074894458667053	NO CHANGES
+MMRF_2455_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 19p, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q	6	0.01850219199000991	NO CHANGES
+MMRF_2456_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	6	0.003117495131500281	NO CHANGES
+MMRF_2457_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.0022971616459319666	NO CHANGES
+MMRF_2458_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	0.0034932650103800533	NO CHANGES
+MMRF_2459_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7q, 8p, 9p, 9q	6	2.1111264946149788e-4	NO CHANGES
+MMRF_2461_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 17p, 17q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6q, 8q	4	-0.005337148450200058	NO CHANGES
+MMRF_2464_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 16p, 16q, 17p, 17q, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8q	4	0.004713535969359972	NO CHANGES
+MMRF_2465_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	-0.003106071319332493	NO CHANGES
+MMRF_2468_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.0015881929206895684	NO CHANGES
+MMRF_2469_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.005068713928639834	NO CHANGES
+MMRF_2471_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.004334598044899884	NO CHANGES
+MMRF_2472_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1q, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.0024222277436938278	NO CHANGES
+MMRF_2473_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	5	0.00644991755354507	NO CHANGES
+MMRF_2475_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.00874527215647003	NO CHANGES
+MMRF_2476_1_BM_CD138pos_pair	SUCCEDED	10p, 11q, 12p, 15q, 16q, 17p, 17q, 19p, 19q, 1q, 20p, 22q, 2p, 2q, 3q, 4p, 4q, 6p, 7p	3	-0.055146309799931625	NO CHANGES
+MMRF_2477_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-1.9936516447143902	REFITTED
+MMRF_2478_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	0.01077508153879525	NO CHANGES
+MMRF_2480_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 15q, 16p, 16q, 17p, 17q, 19p, 19q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q	2	-0.007370950278000166	NO CHANGES
+MMRF_2485_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 15q, 16p, 16q, 18p, 18q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	2.831489005898913e-4	NO CHANGES
+MMRF_2486_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 7p, 7q, 8p, 8q	5	9.833310470996892e-5	NO CHANGES
+MMRF_2487_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8p, 8q	2	-4.21454865244808e-4	NO CHANGES
+MMRF_2488_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 17p, 17q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8p, 8q	4	-0.00784838913687036	NO CHANGES
+MMRF_2489_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 13q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	5	0.004000353543805568	NO CHANGES
+MMRF_2490_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p	5	0.009727649098629998	NO CHANGES
+MMRF_2493_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.00885855578180017	NO CHANGES
+MMRF_2497_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.0055069176989499535	NO CHANGES
+MMRF_2498_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8q	3	-0.003579081601616352	NO CHANGES
+MMRF_2499_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 19p, 19q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	2	-0.004460946310171465	NO CHANGES
+MMRF_2501_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20q, 21p, 22p, 22q, 2p, 2q, 4q, 6p, 6q, 8q	4	0.009374411524822435	NO CHANGES
+MMRF_2503_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 3p, 3q, 4p, 4q, 5p, 5q, 8p, 8q	2	0.0051566937811999836	NO CHANGES
+MMRF_2504_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 21q, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q, 9p	5	-0.0017361569954701395	NO CHANGES
+MMRF_2505_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.0036235313518999668	NO CHANGES
+MMRF_2506_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 18p, 18q, 19q, 1p, 1q, 21q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 8q	6	-0.00390694280079984	NO CHANGES
+MMRF_2507_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	3.316331084202151e-4	NO CHANGES
+MMRF_2511_1_BM_CD138pos_pair	SUCCEDED	10p, 13q, 14q, 18p, 18q, 20p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	5	0.00422291540185582	NO CHANGES
+MMRF_2514_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 8p, 8q	4	-3.4928335440831404e-4	NO CHANGES
+MMRF_2516_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.003372098680419988	NO CHANGES
+MMRF_2517_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	4	0.0042079378106401055	NO CHANGES
+MMRF_2518_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2q, 4p, 4q, 6p, 6q	4	0.013663758513745794	NO CHANGES
+MMRF_2519_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22q, 2p, 2q, 4p, 4q, 6p, 7p, 8q	4	-0.015236684822669933	NO CHANGES
+MMRF_2522_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21p, 22p, 22q, 2q, 7p, 7q, 8p, 8q	4	-0.008575124144205137	NO CHANGES
+MMRF_2523_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.011665888286103376	NO CHANGES
+MMRF_2524_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.021624088269692088	NO CHANGES
+MMRF_2525_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	5.784711803742404e-4	NO CHANGES
+MMRF_2531_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	3	0.00737015598083568	NO CHANGES
+MMRF_2532_1_BM_CD138pos_pair	SUCCEDED	10p, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8q	3	0.003149931235189918	NO CHANGES
+MMRF_2535_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 8p, 8q, 9p, 9q	4	-0.021390588480250106	NO CHANGES
+MMRF_2538_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 14q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.0065730564801951274	NO CHANGES
+MMRF_2539_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	4	-0.0030997575935991506	NO CHANGES
+MMRF_2541_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.004991159219399854	NO CHANGES
+MMRF_2543_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	-3.907669938607583e-5	NO CHANGES
+MMRF_2545_1_BM_CD138pos_pair	SUCCEDED	10q, 11p, 13q, 14q, 16p, 16q, 17p, 18p, 18q, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 3p, 4p, 4q, 5p, 5q, 6q, 7p, 7q, 8q, 9p, 9q	3	0.0025339638392574138	NO CHANGES
+MMRF_2546_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q	6	0.007198801278637479	NO CHANGES
+MMRF_2548_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.0010022197187598003	NO CHANGES
+MMRF_2549_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 4p, 4q, 8p, 8q	3	0.007294956657919904	NO CHANGES
+MMRF_2557_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 18p, 18q, 1p, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	0.0027038448937397597	NO CHANGES
+MMRF_2559_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	9.283311938643735e-4	NO CHANGES
+MMRF_2560_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 8p, 8q	3	-0.0010811331923199496	NO CHANGES
+MMRF_2563_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	1.2388575920008194e-4	NO CHANGES
+MMRF_2564_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1q, 20p, 20q, 21p, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.005153824897639936	NO CHANGES
+MMRF_2566_1_BM_CD138pos_pair	SUCCEDED	12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 8p, 8q	3	5.220960939535946e-4	NO CHANGES
+MMRF_2568_1_BM_CD138pos_pair	SUCCEDED	10p, 11p, 11q, 12q, 13q, 14q, 15q, 16p, 16q, 17q, 18p, 18q, 19q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	5	-0.004492618394404957	NO CHANGES
+MMRF_2570_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 7p, 7q, 8p, 8q	4	-0.010826590708779893	NO CHANGES
+MMRF_2572_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 8p, 8q	3	0.007460083245146576	NO CHANGES
+MMRF_2573_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 16p, 16q, 17p, 17q, 1p, 22p, 22q, 4p, 4q, 6p, 6q, 8p	6	0.01111995813972011	NO CHANGES
+MMRF_2574_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17q, 18p, 18q, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4q, 5p, 5q, 7p, 7q, 8q, 9p, 9q	3	0.007939250649509955	NO CHANGES
+MMRF_2577_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.012444015152920151	NO CHANGES
+MMRF_2579_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.0044448637888998555	NO CHANGES
+MMRF_2580_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 6p, 8p, 8q	5	0.010548425414190099	NO CHANGES
+MMRF_2581_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21q, 2p, 2q, 4q, 6p, 6q, 7p, 7q, 8q	6	6.766470676040637e-4	NO CHANGES
+MMRF_2583_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 1p, 1q, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p	4	0.006143630651859189	NO CHANGES
+MMRF_2584_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.0048391929389399735	NO CHANGES
+MMRF_2587_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q	3	-0.0019340162536098937	NO CHANGES
+MMRF_2590_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8p, 8q	5	-0.012304750592909919	NO CHANGES
+MMRF_2592_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8p, 8q, 9p	3	0.0036666356524248656	NO CHANGES
+MMRF_2593_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 20p, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 7q, 8p, 8q	5	0.006939076897860108	NO CHANGES
+MMRF_2595_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.0167817093964997	NO CHANGES
+MMRF_2596_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 17p, 17q, 1p, 1q, 20p, 21p, 2p, 2q, 3p, 4p, 4q, 6p, 6q, 8q	4	-0.013877218180487816	NO CHANGES
+MMRF_2597_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21q, 22q, 2p, 2q, 4p, 4q, 7p, 7q, 8p, 8q	5	0.013340642388728785	NO CHANGES
+MMRF_2598_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q	6	-0.00578048221751537	NO CHANGES
+MMRF_2601_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.002988660979479807	NO CHANGES
+MMRF_2602_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 15q, 16p, 17p, 17q, 18q, 19p, 19q, 20p, 20q, 21q, 22q, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.008380653033557284	NO CHANGES
+MMRF_2604_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 8p, 8q, 9p, 9q	3	-0.004853412545472224	NO CHANGES
+MMRF_2605_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 15q, 17p, 17q, 18p, 18q, 1q, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	5	0.0033736420783800902	NO CHANGES
+MMRF_2606_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.005691447104856362	NO CHANGES
+MMRF_2609_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 3p, 3q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.0016244847715869426	NO CHANGES
+MMRF_2613_1_BM_CD138pos_pair	SUCCEDED	10q, 12q, 14q, 16p, 18p, 18q, 1p, 1q, 20p, 20q, 21q, 2p, 2q, 4p, 4q, 8q	5	-0.004447428896559913	NO CHANGES
+MMRF_2614_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 8p, 8q	3	-0.0013096030178050277	NO CHANGES
+MMRF_2621_1_BM_CD138pos_pair	SUCCEDED	10q, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	5	0.009956209142584882	NO CHANGES
+MMRF_2622_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 14q, 15q, 17p, 17q, 18p, 18q, 1p, 1q, 2p, 2q, 3q, 5p, 5q, 6p, 6q, 7q, 8p, 8q, 9p	4	-0.009603217964474275	NO CHANGES
+MMRF_2630_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8p, 8q	4	0.00931634816075011	NO CHANGES
+MMRF_2631_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	6	0.006933321701960038	NO CHANGES
+MMRF_2634_1_BM_CD138pos_pair	SUCCEDED	10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 19p, 19q, 1p, 1q, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8q, 9p, 9q	3	-0.005278891799390006	NO CHANGES
+MMRF_2636_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	3	-0.0013331791178261554	NO CHANGES
+MMRF_2637_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11q, 12p, 14q, 15q, 17q, 19p, 19q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5q, 6p, 6q, 7q, 8q, 9p, 9q	6	0.009033882043351094	NO CHANGES
+MMRF_2638_1_BM_CD138pos_pair	SUCCEDED	10p, 12p, 12q, 15q, 17q, 1p, 1q, 2p, 2q, 3p, 3q, 5p, 6p, 6q, 7p, 7q	4	-0.009095205640909931	NO CHANGES
+MMRF_2639_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.007980461591226451	NO CHANGES
+MMRF_2641_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 8p, 8q	3	0.01339809130727998	NO CHANGES
+MMRF_2642_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.00977878719328995	NO CHANGES
+MMRF_2643_1_BM_CD138pos_pair	SUCCEDED	10p, 11p, 12p, 14q, 15q, 16p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 21q, 2q, 3p, 3q, 4p, 4q, 5p, 6p, 7p, 7q, 8p, 9p, 9q	4	-0.01641650821464058	NO CHANGES
+MMRF_2646_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.006296348529119644	NO CHANGES
+MMRF_2647_1_BM_CD138pos_pair	SUCCEDED	10q, 11p, 11q, 12q, 15q, 16p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8q, 9p, 9q	3	-0.007872549564659881	NO CHANGES
+MMRF_2650_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p	3	-9.596525311250659e-4	NO CHANGES
+MMRF_2651_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11q, 12p, 12q, 16p, 17p, 18p, 18q, 19p, 19q, 1p, 20p, 2q, 3p, 3q, 4q, 5p, 5q, 7q, 9p, 9q	5	-0.001426012249663433	NO CHANGES
+MMRF_2652_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11q, 15q, 17p, 17q, 18p, 18q, 19p, 19q, 21q, 2p, 2q, 3p, 3q, 4p, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	6	6.296926002322678e-4	NO CHANGES
+MMRF_2654_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.015645329788019913	NO CHANGES
+MMRF_2655_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.015685752639265083	NO CHANGES
+MMRF_2659_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 5p, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.003563677940600085	NO CHANGES
+MMRF_2660_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q	2	5.14578863449966e-4	NO CHANGES
+MMRF_2664_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 6p, 8p, 8q, 9p, 9q	3	0.011370888692813885	NO CHANGES
+MMRF_2665_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	2	0.017265548908260042	NO CHANGES
+MMRF_2666_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q	3	7.855274505896848e-4	NO CHANGES
+MMRF_2667_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	0.007352075237677003	NO CHANGES
+MMRF_2669_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 5p, 5q, 6p, 6q, 7p, 7q, 9p, 9q	4	0.002634538346960591	NO CHANGES
+MMRF_2670_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q, 9p, 9q	2	0.013405858029639894	NO CHANGES
+MMRF_2676_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 2q, 3p, 3q, 5p, 5q, 7p, 8p, 8q, 9p	4	0.007215348214514972	NO CHANGES
+MMRF_2677_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 2p, 2q, 4p, 4q, 6p, 7p, 7q, 8p, 8q	3	-0.003573692228182157	NO CHANGES
+MMRF_2678_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.004607855905960134	NO CHANGES
+MMRF_2679_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	0.0034813778626296976	NO CHANGES
+MMRF_2680_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	2	-0.0035276210711425726	NO CHANGES
+MMRF_2681_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-5.877295195393373e-4	NO CHANGES
+MMRF_2685_1_BM_CD138pos_pair	SUCCEDED	10p, 11p, 11q, 12p, 12q, 13q, 15q, 16p, 16q, 17q, 18p, 18q, 1p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6q, 7p, 7q	5	-0.014738060197599712	NO CHANGES
+MMRF_2688_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.006547577748930111	NO CHANGES
+MMRF_2689_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 2p, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	6	2.409345476470648e-4	NO CHANGES
+MMRF_2692_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.005841985256117788	NO CHANGES
+MMRF_2694_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 9q	3	0.007855654435430015	NO CHANGES
+MMRF_2695_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 1p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q, 9p	3	-0.020034479155469853	NO CHANGES
+MMRF_2696_1_BM_CD138pos_pair	SUCCEDED	12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	4	-0.0029728077682618093	NO CHANGES
+MMRF_2698_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12q, 13q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2q, 4p, 4q, 5q, 6p, 8q	3	-0.009771332736550065	NO CHANGES
+MMRF_2699_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6q, 7p, 7q	3	-0.007978530833609998	NO CHANGES
+MMRF_2701_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q, 9p, 9q	3	-4.6824780228016394e-4	NO CHANGES
+MMRF_2702_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.015091936285799745	NO CHANGES
+MMRF_2703_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 6p, 6q, 8p, 8q	3	0.0033375583059551683	NO CHANGES
+MMRF_2704_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	-0.007819798115952459	NO CHANGES
+MMRF_2705_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16q, 17q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 5q, 6p, 7p, 7q, 8p, 8q	4	-0.003668376364129866	NO CHANGES
+MMRF_2706_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20q, 21p, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	3	0.012920625637480754	NO CHANGES
+MMRF_2707_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	0.0022318500519660223	NO CHANGES
+MMRF_2708_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q	3	-0.006172177073002327	NO CHANGES
+MMRF_2709_1_BM_CD138pos_pair	SUCCEDED	10p, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	4	-8.057360307214267e-4	NO CHANGES
+MMRF_2714_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 22p, 22q, 4p, 4q, 7p, 7q, 8p, 8q	3	0.012109038332948074	NO CHANGES
+MMRF_2715_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 5p, 7q, 8q, 9p	3	-5.736778817651e-4	NO CHANGES
+MMRF_2716_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.006191521113370069	NO CHANGES
+MMRF_2718_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q, 9p, 9q	4	0.0031264568408808646	NO CHANGES
+MMRF_2719_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.010147902718010027	NO CHANGES
+MMRF_2721_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	5.53195233540027e-4	NO CHANGES
+MMRF_2722_1_BM_CD138pos_pair	SUCCEDED	10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21p, 21q, 22p, 22q, 2q, 3p, 3q, 4p, 4q, 5q, 6p, 8p, 9p, 9q	6	0.001786647592850077	NO CHANGES
+MMRF_2723_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.008803105401980149	NO CHANGES
+MMRF_2727_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	2	-0.010490717497150026	NO CHANGES
+MMRF_2728_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 7p, 7q, 8p, 8q	4	0.010823548025169938	NO CHANGES
+MMRF_2729_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	0.0012549391944611799	NO CHANGES
+MMRF_2730_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8q	5	-0.001231054322659908	NO CHANGES
+MMRF_2731_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 6q, 8p, 8q	4	0.010603732763142082	NO CHANGES
+MMRF_2732_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.005456046315699847	NO CHANGES
+MMRF_2733_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.003328030751899913	NO CHANGES
+MMRF_2734_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	-0.0033081102266452334	NO CHANGES
+MMRF_2737_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.005863748125599866	NO CHANGES
+MMRF_2738_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	2.0551434737403618e-4	NO CHANGES
+MMRF_2739_1_BM_CD138pos_pair	SUCCEDED	10p, 11q, 12p, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	0.005524932932170046	NO CHANGES
+MMRF_2740_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	4	0.007832335965729964	NO CHANGES
+MMRF_2742_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 8p, 8q	2	-0.001747820537520095	NO CHANGES
+MMRF_2743_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 7p, 7q, 8p, 8q	4	-0.004125355574439826	NO CHANGES
+MMRF_2745_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 9p, 9q	2	0.0014387477504400614	NO CHANGES
+MMRF_2746_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.017925532075840245	NO CHANGES
+MMRF_2750_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	-0.006785894981089946	NO CHANGES
+MMRF_2751_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 15q, 16p, 16q, 17p, 17q, 18q, 19p, 19q, 1q, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	6	-0.013447268091539843	NO CHANGES
+MMRF_2752_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16q, 18p, 18q, 1p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	4	8.703030494696673e-4	NO CHANGES
+MMRF_2753_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	6	0.001201125109675072	NO CHANGES
+MMRF_2754_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q, 9p, 9q	4	0.0062510436738401065	NO CHANGES
+MMRF_2755_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16q, 18p, 18q, 1p, 1q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6q, 8p, 8q	3	-0.007114856790400026	NO CHANGES
+MMRF_2756_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 8p, 8q	4	-0.014537928193099958	NO CHANGES
+MMRF_2757_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 15q, 16p, 18p, 19p, 19q, 1q, 20p, 20q, 21p, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7q, 8q, 9p	5	0.005925878057857492	NO CHANGES
+MMRF_2758_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.0059909461166747224	NO CHANGES
+MMRF_2760_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6q, 7p, 7q, 8p, 8q, 9p, 9q	4	-0.0015605017442301694	NO CHANGES
+MMRF_2761_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.014001965058420218	NO CHANGES
+MMRF_2762_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 9p, 9q	5	-0.00905082903054577	NO CHANGES
+MMRF_2763_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.018369583699680003	NO CHANGES
+MMRF_2764_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 21p, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 9p, 9q	5	0.007443232693939983	NO CHANGES
+MMRF_2765_1_BM_CD138pos_pair	SUCCEDED	10p, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 4p, 4q, 8q	6	-0.00223154665092018	NO CHANGES
+MMRF_2767_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18q, 19p, 19q, 1p, 1q, 20p, 21p, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 7p, 7q, 9p, 9q	3	-0.008525917671965644	NO CHANGES
+MMRF_2768_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	5	-0.010549971601450103	NO CHANGES
+MMRF_2769_1_BM_CD138pos_pair	SUCCEDED	10q, 13q, 14q, 16p, 16q, 18p, 18q, 21q, 22p, 2p, 2q, 3p, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q, 9p	4	0.009646519682100063	NO CHANGES
+MMRF_2770_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	4	0.005167923265890106	NO CHANGES
+MMRF_2772_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.01028185100612955	NO CHANGES
+MMRF_2774_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.007442574397320545	NO CHANGES
+MMRF_2775_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	0.007903942207309722	NO CHANGES
+MMRF_2776_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 17p, 17q, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8q, 9p, 9q	3	-0.005412675255279886	NO CHANGES
+MMRF_2778_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 19q, 1p, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	-0.02228102540895982	NO CHANGES
+MMRF_2779_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	4	0.008669469991390066	NO CHANGES
+MMRF_2781_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 14q, 16p, 19q, 21p, 22p, 2p, 2q, 3p, 3q, 5p, 5q, 6p, 6q, 8p, 8q, 9p, 9q	4	-0.005970335747206068	NO CHANGES
+MMRF_2782_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 8p, 8q	3	-0.01002375498232766	NO CHANGES
+MMRF_2787_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.0010406002566698547	NO CHANGES
+MMRF_2788_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.004026297823640057	NO CHANGES
+MMRF_2789_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p	3	-0.007508775753469976	NO CHANGES
+MMRF_2792_1_BM_CD138pos_pair	SUCCEDED	12q, 15q, 17q, 1p, 1q, 22p, 2p, 3q, 4p, 4q	6	-3.228085712301265e-4	NO CHANGES
+MMRF_2793_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.0023088815021656828	NO CHANGES
+MMRF_2794_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 8p, 8q, 9p, 9q	3	-0.001608057406405905	NO CHANGES
+MMRF_2795_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8p, 8q	4	-0.006632695695020008	NO CHANGES
+MMRF_2799_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 14q, 16p, 16q, 17p, 17q, 18q, 1p, 1q, 20p, 20q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	4	0.004983129362710059	NO CHANGES
+MMRF_2801_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 2p, 2q, 3p, 3q, 4p, 4q, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	6	0.006530817385363319	NO CHANGES
+MMRF_2805_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 15q, 19q, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 5p, 5q, 6p, 6q, 7p, 7q, 9p, 9q	6	-0.026543120746440163	NO CHANGES
+MMRF_2807_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11q, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4q, 5p, 5q, 7p, 9p, 9q	4	9.301163909301025e-4	NO CHANGES
+MMRF_2808_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	2	8.925169319144999e-4	NO CHANGES
+MMRF_2814_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 17p, 18q, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 4p, 4q, 5p, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.009908886842299847	NO CHANGES
+MMRF_2815_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.012909899154780025	NO CHANGES
+MMRF_2816_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 6p, 6q, 8p, 8q	3	-0.013690522468300603	NO CHANGES
+MMRF_2817_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 17p, 17q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.010303897359606129	NO CHANGES
+MMRF_2818_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12p, 13q, 16p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 7p, 7q, 8p, 9p, 9q	5	-3.708007057952045e-4	NO CHANGES
+MMRF_2819_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.006176533529684836	NO CHANGES
+MMRF_2820_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 16p, 17p, 17q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	5	-8.425912985901007e-4	NO CHANGES
+MMRF_2821_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 22p, 22q, 2p, 2q, 3p, 3q, 6p, 6q, 7p, 7q, 8p, 8q	4	0.009529812439029506	NO CHANGES
+MMRF_2822_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 21p, 21q, 2p, 2q, 3p, 3q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.01702076795739993	NO CHANGES
+MMRF_2823_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 15q, 17p, 17q, 1q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	5	-8.172652210696185e-4	NO CHANGES
+MMRF_2826_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 6q, 7p, 7q, 8q	3	-0.0021681102462300927	NO CHANGES
+MMRF_2827_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12q, 14q, 16p, 16q, 17q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 8q	6	-0.007634983141224794	NO CHANGES
+MMRF_2828_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21q, 22p, 22q, 2p, 3p, 3q, 4p, 4q, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.00826205305888772	NO CHANGES
+MMRF_2829_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 15q, 16p, 17q, 20p, 20q, 21q, 22q, 2p, 2q, 3q, 4p, 4q, 5p, 5q, 7p, 7q, 8q, 9p	3	-7.89727807073426e-5	NO CHANGES
+MMRF_2830_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.011760074675870147	NO CHANGES
+MMRF_2831_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q	3	0.012020905490871314	NO CHANGES
+MMRF_2832_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 17p, 17q, 18p, 18q, 1p, 1q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 8p, 8q	3	0.009435693703430115	NO CHANGES
+MMRF_2833_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 14q, 17q, 18p, 18q, 19q, 1p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 5p, 6p, 6q, 9p	3	-0.010730932600259813	NO CHANGES
+MMRF_2834_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-0.00896636744515611	NO CHANGES
+MMRF_2835_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 16p, 16q, 17p, 17q, 18p, 18q, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q, 7p, 7q, 8p, 8q	6	3.4024537798993393e-4	NO CHANGES
+MMRF_2836_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 17p, 17q, 18p, 18q, 19p, 19q, 1p, 20p, 20q, 21p, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 6p, 6q, 7p, 7q, 8q, 9p, 9q	3	-0.011811687743500165	NO CHANGES
+MMRF_2838_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 12q, 14q, 15q, 16p, 16q, 17q, 18p, 18q, 19p, 19q, 1q, 20p, 20q, 21q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	0.0032776653000698985	NO CHANGES
+MMRF_2839_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 11p, 11q, 12q, 15q, 16p, 16q, 17q, 18p, 18q, 19p, 19q, 1p, 20q, 21q, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	3	-0.031485497423660025	NO CHANGES
+MMRF_2840_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 13q, 16p, 16q, 17q, 18p, 18q, 20p, 20q, 22p, 22q, 2p, 2q, 4p, 4q, 6p, 6q	6	0.02031505645567	NO CHANGES
+MMRF_2847_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	0.0017676192743101282	NO CHANGES
+MMRF_2848_1_BM_CD138pos_pair	FAIL	10p, 10q, 12p, 12q, 16p, 17q, 1p, 20p, 20q, 22q, 2p, 2q, 4p, 4q, 8q	NA	-2.0137293160532845	REFITTED
+MMRF_2851_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 15q, 16p, 16q, 17q, 18p, 18q, 19p, 19q, 1p, 1q, 20p, 20q, 21q, 22p, 22q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q	6	0.006060657658240043	NO CHANGES
+MMRF_2853_1_BM_CD138pos_pair	SUCCEDED	10p, 10q, 12p, 12q, 13q, 14q, 16p, 16q, 20p, 20q, 22p, 22q, 3q, 4p, 7p, 7q, 8p, 8q	3	0.008432665772099668	NO CHANGES
